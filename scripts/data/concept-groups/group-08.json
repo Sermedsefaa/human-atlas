@@ -1,0 +1,1207 @@
+{
+ "index": 8,
+ "from": 2400,
+ "count": 300,
+ "concepts": [
+  {
+   "id": "FMA67598",
+   "en": "leaf of cardiac valve"
+  },
+  {
+   "id": "FMA67601",
+   "en": "process of organ"
+  },
+  {
+   "id": "FMA67619",
+   "en": "organ region"
+  },
+  {
+   "id": "FMA67936",
+   "en": "left optic tract"
+  },
+  {
+   "id": "FMA67942",
+   "en": "segment of metencephalon"
+  },
+  {
+   "id": "FMA67943",
+   "en": "pons"
+  },
+  {
+   "id": "FMA67944",
+   "en": "cerebellum"
+  },
+  {
+   "id": "FMA67950",
+   "en": "stria of telencephalon"
+  },
+  {
+   "id": "FMA67951",
+   "en": "lamina of cerebral hemisphere"
+  },
+  {
+   "id": "FMA67957",
+   "en": "segment of gyrus of cerebral hemisphere"
+  },
+  {
+   "id": "FMA67977",
+   "en": "dorsal venous network of hand"
+  },
+  {
+   "id": "FMA68045",
+   "en": "segment of thoracic aorta"
+  },
+  {
+   "id": "FMA68068",
+   "en": "inferior phrenic vein"
+  },
+  {
+   "id": "FMA68109",
+   "en": "bronchial artery"
+  },
+  {
+   "id": "FMA68192",
+   "en": "lobar artery"
+  },
+  {
+   "id": "FMA68197",
+   "en": "right upper lobar artery"
+  },
+  {
+   "id": "FMA68208",
+   "en": "pulmonary segment of bronchial tree"
+  },
+  {
+   "id": "FMA68211",
+   "en": "right apical segmental bronchial tree"
+  },
+  {
+   "id": "FMA68212",
+   "en": "right anterior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68213",
+   "en": "right posterior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68214",
+   "en": "medial segmental bronchial tree"
+  },
+  {
+   "id": "FMA68215",
+   "en": "lateral segmental bronchial tree"
+  },
+  {
+   "id": "FMA68216",
+   "en": "right superior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68218",
+   "en": "right medial basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68219",
+   "en": "anterior basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68220",
+   "en": "right lateral basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68221",
+   "en": "right posterior basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68222",
+   "en": "left anterior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68223",
+   "en": "left apical segmental bronchial tree"
+  },
+  {
+   "id": "FMA68225",
+   "en": "left posterior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68226",
+   "en": "superior lingular bronchial tree"
+  },
+  {
+   "id": "FMA68227",
+   "en": "inferior lingular bronchial tree"
+  },
+  {
+   "id": "FMA68228",
+   "en": "left superior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68229",
+   "en": "posterior basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68230",
+   "en": "left medial basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68231",
+   "en": "left anterior basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68232",
+   "en": "left lateral basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68233",
+   "en": "left posterior basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68234",
+   "en": "apical segmental bronchial tree"
+  },
+  {
+   "id": "FMA68235",
+   "en": "anterior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68236",
+   "en": "posterior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68237",
+   "en": "superior segmental bronchial tree"
+  },
+  {
+   "id": "FMA68238",
+   "en": "basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68320",
+   "en": "medial basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68321",
+   "en": "right anterior basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68322",
+   "en": "lateral basal segmental bronchial tree"
+  },
+  {
+   "id": "FMA68418",
+   "en": "right main bronchus proper"
+  },
+  {
+   "id": "FMA68661",
+   "en": "apical part of apical segmental artery"
+  },
+  {
+   "id": "FMA68662",
+   "en": "apical part of right apical segmental artery"
+  },
+  {
+   "id": "FMA68664",
+   "en": "anterior part of apical segmental artery"
+  },
+  {
+   "id": "FMA68665",
+   "en": "anterior part of right apical segmental artery"
+  },
+  {
+   "id": "FMA68667",
+   "en": "subsegmental part of apical segmental artery"
+  },
+  {
+   "id": "FMA68668",
+   "en": "subsegmental part of posterior segmental artery"
+  },
+  {
+   "id": "FMA68669",
+   "en": "apical part of posterior segmental artery"
+  },
+  {
+   "id": "FMA68670",
+   "en": "apical part of right posterior segmental artery"
+  },
+  {
+   "id": "FMA68672",
+   "en": "posterior part of posterior segmental artery"
+  },
+  {
+   "id": "FMA68673",
+   "en": "posterior part of right posterior segmental artery"
+  },
+  {
+   "id": "FMA68675",
+   "en": "subsegmental part of anterior segmental artery"
+  },
+  {
+   "id": "FMA68676",
+   "en": "posterior part of anterior segmental artery"
+  },
+  {
+   "id": "FMA68677",
+   "en": "posterior branch of right anterior segmental artery"
+  },
+  {
+   "id": "FMA68682",
+   "en": "anterior branch of anterior segmental artery"
+  },
+  {
+   "id": "FMA68683",
+   "en": "anterior branch of right anterior segmental artery"
+  },
+  {
+   "id": "FMA68689",
+   "en": "subsegmental part of lateral segmental artery"
+  },
+  {
+   "id": "FMA68690",
+   "en": "posterior branch of lateral segmental artery"
+  },
+  {
+   "id": "FMA68691",
+   "en": "anterior branch of lateral segmental artery"
+  },
+  {
+   "id": "FMA68692",
+   "en": "subsegmental part of medial segmental artery"
+  },
+  {
+   "id": "FMA68693",
+   "en": "superior branch of medial segmental artery"
+  },
+  {
+   "id": "FMA68694",
+   "en": "inferior branch of medial segmental artery"
+  },
+  {
+   "id": "FMA68704",
+   "en": "medial branch of superior segmental artery"
+  },
+  {
+   "id": "FMA68705",
+   "en": "subsegmental part of superior segmental artery"
+  },
+  {
+   "id": "FMA68706",
+   "en": "medial branch of right superior segmental artery"
+  },
+  {
+   "id": "FMA68708",
+   "en": "superior branch of superior segmental artery"
+  },
+  {
+   "id": "FMA68709",
+   "en": "superior branch of right superior segmental artery"
+  },
+  {
+   "id": "FMA68711",
+   "en": "lateral branch of superior segmental artery"
+  },
+  {
+   "id": "FMA68712",
+   "en": "lateral branch of right superior segmental artery"
+  },
+  {
+   "id": "FMA68720",
+   "en": "subsegmental part of anterior basal segmental artery"
+  },
+  {
+   "id": "FMA68721",
+   "en": "lateral branch of anterior basal segmental artery"
+  },
+  {
+   "id": "FMA68722",
+   "en": "basal branch of anterior basal segmental artery"
+  },
+  {
+   "id": "FMA68723",
+   "en": "basal branch of right anterior basal segmental artery"
+  },
+  {
+   "id": "FMA68725",
+   "en": "lateral branch of right anterior basal segmental artery"
+  },
+  {
+   "id": "FMA68727",
+   "en": "subsegmental part of lateral basal segmental artery"
+  },
+  {
+   "id": "FMA68728",
+   "en": "lateral branch of right lateral basal segmental artery"
+  },
+  {
+   "id": "FMA68733",
+   "en": "subsegmental part of posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68734",
+   "en": "accessory subsuperior branch of posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68735",
+   "en": "accessory subsuperior branch of right posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68737",
+   "en": "laterobasal branch of posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68738",
+   "en": "laterobasal branch of right posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68740",
+   "en": "mediobasal branch of posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68741",
+   "en": "mediobasal branch of right posterior basal segmental artery"
+  },
+  {
+   "id": "FMA68878",
+   "en": "trunk of segmental pulmonary vein"
+  },
+  {
+   "id": "FMA68879",
+   "en": "trunk of apical segmental vein"
+  },
+  {
+   "id": "FMA68880",
+   "en": "trunk of right apical segmental vein"
+  },
+  {
+   "id": "FMA68919",
+   "en": "apical part of apical segmental vein"
+  },
+  {
+   "id": "FMA68920",
+   "en": "anterior part of apical segmental vein"
+  },
+  {
+   "id": "FMA68921",
+   "en": "anterior part of right apical segmental vein"
+  },
+  {
+   "id": "FMA68926",
+   "en": "superior part of right anterior segmental vein"
+  },
+  {
+   "id": "FMA68928",
+   "en": "inferior part of right anterior segmental vein"
+  },
+  {
+   "id": "FMA68944",
+   "en": "posterior part of lateral segmental vein"
+  },
+  {
+   "id": "FMA68945",
+   "en": "anterior part of lateral segmental vein"
+  },
+  {
+   "id": "FMA68982",
+   "en": "superior part of medial segmental vein"
+  },
+  {
+   "id": "FMA68983",
+   "en": "inferior part of medial segmental vein"
+  },
+  {
+   "id": "FMA69264",
+   "en": "inferior suprarenal artery"
+  },
+  {
+   "id": "FMA69265",
+   "en": "right inferior suprarenal artery"
+  },
+  {
+   "id": "FMA69266",
+   "en": "left inferior suprarenal artery"
+  },
+  {
+   "id": "FMA69418",
+   "en": "trunk of branch of popliteal artery"
+  },
+  {
+   "id": "FMA69458",
+   "en": "subdivision of external iliac artery"
+  },
+  {
+   "id": "FMA69459",
+   "en": "subdivision of deep femoral artery"
+  },
+  {
+   "id": "FMA69476",
+   "en": "subdivision of anterior tibial artery"
+  },
+  {
+   "id": "FMA69490",
+   "en": "right lateral tarsal artery"
+  },
+  {
+   "id": "FMA69491",
+   "en": "left lateral tarsal artery"
+  },
+  {
+   "id": "FMA69494",
+   "en": "right arcuate artery"
+  },
+  {
+   "id": "FMA69495",
+   "en": "left arcuate artery"
+  },
+  {
+   "id": "FMA69513",
+   "en": "deep plantar artery"
+  },
+  {
+   "id": "FMA69514",
+   "en": "right deep plantar artery"
+  },
+  {
+   "id": "FMA69515",
+   "en": "left deep plantar artery"
+  },
+  {
+   "id": "FMA69517",
+   "en": "distal perforating artery"
+  },
+  {
+   "id": "FMA69559",
+   "en": "zone of trunk of lateral plantar artery"
+  },
+  {
+   "id": "FMA69713",
+   "en": "digital artery of foot"
+  },
+  {
+   "id": "FMA69784",
+   "en": "branch of posterior tibial artery"
+  },
+  {
+   "id": "FMA69796",
+   "en": "subdivision of internal iliac artery"
+  },
+  {
+   "id": "FMA69803",
+   "en": "subdivision of anterior division of internal iliac artery"
+  },
+  {
+   "id": "FMA69805",
+   "en": "subdivision of internal pudendal artery"
+  },
+  {
+   "id": "FMA70247",
+   "en": "subdivision of external iliac artery proper"
+  },
+  {
+   "id": "FMA70248",
+   "en": "femoral artery"
+  },
+  {
+   "id": "FMA70249",
+   "en": "right femoral artery"
+  },
+  {
+   "id": "FMA70250",
+   "en": "left femoral artery"
+  },
+  {
+   "id": "FMA70251",
+   "en": "subdivision of femoral artery"
+  },
+  {
+   "id": "FMA70345",
+   "en": "subdivision of subclavian artery"
+  },
+  {
+   "id": "FMA70353",
+   "en": "subdivision of thyrocervical artery"
+  },
+  {
+   "id": "FMA70358",
+   "en": "subdivision of internal thoracic artery"
+  },
+  {
+   "id": "FMA70399",
+   "en": "subdivision of costocervical artery"
+  },
+  {
+   "id": "FMA70408",
+   "en": "subdivision of thoraco-acromial artery"
+  },
+  {
+   "id": "FMA70422",
+   "en": "subdivision of subscapular artery"
+  },
+  {
+   "id": "FMA70429",
+   "en": "subdivision of celiac artery"
+  },
+  {
+   "id": "FMA70433",
+   "en": "subdivision of common hepatic artery"
+  },
+  {
+   "id": "FMA70436",
+   "en": "subdivision of gastroduodenal artery"
+  },
+  {
+   "id": "FMA70437",
+   "en": "superior pancreaticoduodenal artery"
+  },
+  {
+   "id": "FMA70439",
+   "en": "subdivision of right hepatic artery"
+  },
+  {
+   "id": "FMA70440",
+   "en": "subdivision of left hepatic artery"
+  },
+  {
+   "id": "FMA70442",
+   "en": "anterior superior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70443",
+   "en": "anterior inferior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70445",
+   "en": "posterior superior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70446",
+   "en": "posterior inferior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70447",
+   "en": "caudate lobe branch of right hepatic artery"
+  },
+  {
+   "id": "FMA70449",
+   "en": "medial superior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70450",
+   "en": "medial inferior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70452",
+   "en": "lateral superior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70453",
+   "en": "lateral inferior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70455",
+   "en": "caudate lobe branch of left hepatic artery"
+  },
+  {
+   "id": "FMA70456",
+   "en": "trunk of right hepatic artery"
+  },
+  {
+   "id": "FMA70457",
+   "en": "trunk of left hepatic artery"
+  },
+  {
+   "id": "FMA70470",
+   "en": "subdivision of splenic artery"
+  },
+  {
+   "id": "FMA70471",
+   "en": "pancreatic artery"
+  },
+  {
+   "id": "FMA70478",
+   "en": "subdivision of superior mesenteric artery"
+  },
+  {
+   "id": "FMA70479",
+   "en": "anterior inferior pancreaticoduodenal artery"
+  },
+  {
+   "id": "FMA70480",
+   "en": "posterior inferior pancreaticoduodenal artery"
+  },
+  {
+   "id": "FMA70481",
+   "en": "subdivision of inferior pancreaticoduodenal artery"
+  },
+  {
+   "id": "FMA70483",
+   "en": "subdivision of inferior mesenteric artery"
+  },
+  {
+   "id": "FMA70484",
+   "en": "segment of renal artery"
+  },
+  {
+   "id": "FMA70485",
+   "en": "anterior division of renal artery"
+  },
+  {
+   "id": "FMA70486",
+   "en": "anterior division of right renal artery"
+  },
+  {
+   "id": "FMA70487",
+   "en": "anterior division of left renal artery"
+  },
+  {
+   "id": "FMA70488",
+   "en": "posterior division of renal artery"
+  },
+  {
+   "id": "FMA70489",
+   "en": "posterior division of right renal artery"
+  },
+  {
+   "id": "FMA70490",
+   "en": "posterior division of left renal artery"
+  },
+  {
+   "id": "FMA70491",
+   "en": "ureteric segment of renal artery"
+  },
+  {
+   "id": "FMA70492",
+   "en": "ureteric segment of right renal artery"
+  },
+  {
+   "id": "FMA70493",
+   "en": "ureteric segment of left renal artery"
+  },
+  {
+   "id": "FMA70494",
+   "en": "segmental renal artery"
+  },
+  {
+   "id": "FMA70499",
+   "en": "superior segmental renal artery"
+  },
+  {
+   "id": "FMA70502",
+   "en": "inferior segmental renal artery"
+  },
+  {
+   "id": "FMA70503",
+   "en": "posterior segmental renal artery"
+  },
+  {
+   "id": "FMA70504",
+   "en": "subdivision of common carotid artery"
+  },
+  {
+   "id": "FMA70506",
+   "en": "subdivision of internal carotid artery"
+  },
+  {
+   "id": "FMA70523",
+   "en": "subdivision of cerebral part of internal carotid artery"
+  },
+  {
+   "id": "FMA70593",
+   "en": "subdivision of epidermis"
+  },
+  {
+   "id": "FMA70676",
+   "en": "subdivision of superior temporal gyrus"
+  },
+  {
+   "id": "FMA70701",
+   "en": "anterior part of superior temporal gyrus"
+  },
+  {
+   "id": "FMA70703",
+   "en": "posterior part of superior temporal gyrus"
+  },
+  {
+   "id": "FMA70741",
+   "en": "set of facial hairs"
+  },
+  {
+   "id": "FMA70752",
+   "en": "set of hairs"
+  },
+  {
+   "id": "FMA70779",
+   "en": "set of organs"
+  },
+  {
+   "id": "FMA70800",
+   "en": "set of dorsal metacarpal arteries"
+  },
+  {
+   "id": "FMA70801",
+   "en": "set of dorsal digital arteries"
+  },
+  {
+   "id": "FMA70815",
+   "en": "set of perforating arteries"
+  },
+  {
+   "id": "FMA70821",
+   "en": "set of common plantar digital arteries"
+  },
+  {
+   "id": "FMA70839",
+   "en": "set of anterior intercostal veins"
+  },
+  {
+   "id": "FMA70917",
+   "en": "set of dorsal digital veins"
+  },
+  {
+   "id": "FMA70919",
+   "en": "set of plantar digital veins"
+  },
+  {
+   "id": "FMA70922",
+   "en": "set of perforating veins"
+  },
+  {
+   "id": "FMA71012",
+   "en": "skin appendage"
+  },
+  {
+   "id": "FMA71114",
+   "en": "brachium of inferior colliculus"
+  },
+  {
+   "id": "FMA71193",
+   "en": "lobe of thymus"
+  },
+  {
+   "id": "FMA71194",
+   "en": "right lobe of thymus"
+  },
+  {
+   "id": "FMA71195",
+   "en": "left lobe of thymus"
+  },
+  {
+   "id": "FMA71209",
+   "en": "tributary of axillary vein"
+  },
+  {
+   "id": "FMA71210",
+   "en": "lateral thoracic vein"
+  },
+  {
+   "id": "FMA71211",
+   "en": "right lateral thoracic vein"
+  },
+  {
+   "id": "FMA71212",
+   "en": "left lateral thoracic vein"
+  },
+  {
+   "id": "FMA71213",
+   "en": "thoracodorsal vein"
+  },
+  {
+   "id": "FMA71214",
+   "en": "right thoracodorsal vein"
+  },
+  {
+   "id": "FMA71215",
+   "en": "left thoracodorsal vein"
+  },
+  {
+   "id": "FMA71235",
+   "en": "region of dura mater"
+  },
+  {
+   "id": "FMA71307",
+   "en": "set of interspinales lumborum"
+  },
+  {
+   "id": "FMA71309",
+   "en": "set of interspinales cervicis"
+  },
+  {
+   "id": "FMA71313",
+   "en": "set of levatores costarum longi"
+  },
+  {
+   "id": "FMA71314",
+   "en": "set of levatores costarum breves"
+  },
+  {
+   "id": "FMA71318",
+   "en": "set of lumbricals of hand"
+  },
+  {
+   "id": "FMA71319",
+   "en": "set of dorsal interossei of hand"
+  },
+  {
+   "id": "FMA71320",
+   "en": "set of palmar interossei of hand"
+  },
+  {
+   "id": "FMA71442",
+   "en": "set of anterior cervical intertransversarii"
+  },
+  {
+   "id": "FMA71443",
+   "en": "set of posterior cervical intertransversarii"
+  },
+  {
+   "id": "FMA71502",
+   "en": "set of posterior temporal branches of lateral occipital artery"
+  },
+  {
+   "id": "FMA71537",
+   "en": "set of oesophageal branches of thoracic aorta"
+  },
+  {
+   "id": "FMA71562",
+   "en": "set of calcaneal branches of posterior tibial artery"
+  },
+  {
+   "id": "FMA71564",
+   "en": "set of plantar digital arteries proper"
+  },
+  {
+   "id": "FMA71708",
+   "en": "right lobe branch of right hepatic artery"
+  },
+  {
+   "id": "FMA71709",
+   "en": "subdivision of right lobe branch of right hepatic artery"
+  },
+  {
+   "id": "FMA71710",
+   "en": "left lobe branch of left hepatic artery"
+  },
+  {
+   "id": "FMA71736",
+   "en": "subdivision of left lobe branch of left hepatic artery"
+  },
+  {
+   "id": "FMA71856",
+   "en": "segment of biliary tree"
+  },
+  {
+   "id": "FMA71859",
+   "en": "segment of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71860",
+   "en": "segment of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71865",
+   "en": "segmental tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71866",
+   "en": "segmental tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71867",
+   "en": "anterior superior tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71868",
+   "en": "anterior inferior tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71869",
+   "en": "posterior superior tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71870",
+   "en": "posterior inferior tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71885",
+   "en": "medial superior tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71886",
+   "en": "medial inferior tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71887",
+   "en": "lateral superior tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71888",
+   "en": "lateral inferior tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71889",
+   "en": "caudate lobe tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71903",
+   "en": "subdivision of hepatic portal vein"
+  },
+  {
+   "id": "FMA71904",
+   "en": "pre-hepatic portal vein"
+  },
+  {
+   "id": "FMA71905",
+   "en": "subdivision of right hepatic portal vein"
+  },
+  {
+   "id": "FMA71906",
+   "en": "subdivision of left hepatic portal vein"
+  },
+  {
+   "id": "FMA71907",
+   "en": "trunk of branch of hepatic portal vein"
+  },
+  {
+   "id": "FMA71908",
+   "en": "proximal phalanx of left middle finger"
+  },
+  {
+   "id": "FMA71915",
+   "en": "proximal phalanx of left index finger"
+  },
+  {
+   "id": "FMA71916",
+   "en": "proximal phalanx of left ring finger"
+  },
+  {
+   "id": "FMA72058",
+   "en": "intrinsic ligament of larynx"
+  },
+  {
+   "id": "FMA72308",
+   "en": "stylohyoid ligament"
+  },
+  {
+   "id": "FMA72309",
+   "en": "right stylohyoid ligament"
+  },
+  {
+   "id": "FMA72311",
+   "en": "left stylohyoid ligament"
+  },
+  {
+   "id": "FMA72417",
+   "en": "brachium of superior colliculus"
+  },
+  {
+   "id": "FMA72653",
+   "en": "right superior frontal gyrus"
+  },
+  {
+   "id": "FMA72654",
+   "en": "left superior frontal gyrus"
+  },
+  {
+   "id": "FMA72655",
+   "en": "right middle frontal gyrus"
+  },
+  {
+   "id": "FMA72656",
+   "en": "left middle frontal gyrus"
+  },
+  {
+   "id": "FMA72657",
+   "en": "right inferior frontal gyrus"
+  },
+  {
+   "id": "FMA72658",
+   "en": "left inferior frontal gyrus"
+  },
+  {
+   "id": "FMA72661",
+   "en": "right precentral gyrus"
+  },
+  {
+   "id": "FMA72662",
+   "en": "left precentral gyrus"
+  },
+  {
+   "id": "FMA72665",
+   "en": "right postcentral gyrus"
+  },
+  {
+   "id": "FMA72666",
+   "en": "left postcentral gyrus"
+  },
+  {
+   "id": "FMA72667",
+   "en": "right supramarginal gyrus"
+  },
+  {
+   "id": "FMA72668",
+   "en": "left supramarginal gyrus"
+  },
+  {
+   "id": "FMA72669",
+   "en": "right angular gyrus"
+  },
+  {
+   "id": "FMA72670",
+   "en": "left angular gyrus"
+  },
+  {
+   "id": "FMA72671",
+   "en": "right superior parietal lobule"
+  },
+  {
+   "id": "FMA72672",
+   "en": "left superior parietal lobule"
+  },
+  {
+   "id": "FMA72685",
+   "en": "right middle temporal gyrus"
+  },
+  {
+   "id": "FMA72686",
+   "en": "left middle temporal gyrus"
+  },
+  {
+   "id": "FMA72687",
+   "en": "right inferior temporal gyrus"
+  },
+  {
+   "id": "FMA72688",
+   "en": "left inferior temporal gyrus"
+  },
+  {
+   "id": "FMA72689",
+   "en": "right fusiform gyrus"
+  },
+  {
+   "id": "FMA72690",
+   "en": "left fusiform gyrus"
+  },
+  {
+   "id": "FMA72705",
+   "en": "right parahippocampal gyrus"
+  },
+  {
+   "id": "FMA72706",
+   "en": "left parahippocampal gyrus"
+  },
+  {
+   "id": "FMA72713",
+   "en": "right hippocampus"
+  },
+  {
+   "id": "FMA72714",
+   "en": "left hippocampus"
+  },
+  {
+   "id": "FMA72717",
+   "en": "right cingulate gyrus"
+  },
+  {
+   "id": "FMA72718",
+   "en": "left cingulate gyrus"
+  },
+  {
+   "id": "FMA72800",
+   "en": "anterior part of right superior temporal gyrus"
+  },
+  {
+   "id": "FMA72801",
+   "en": "anterior part of left superior temporal gyrus"
+  },
+  {
+   "id": "FMA72804",
+   "en": "posterior part of right superior temporal gyrus"
+  },
+  {
+   "id": "FMA72805",
+   "en": "posterior part of left superior temporal gyrus"
+  },
+  {
+   "id": "FMA72826",
+   "en": "right caudate nucleus"
+  },
+  {
+   "id": "FMA72827",
+   "en": "left caudate nucleus"
+  },
+  {
+   "id": "FMA72828",
+   "en": "right putamen"
+  },
+  {
+   "id": "FMA72829",
+   "en": "left putamen"
+  },
+  {
+   "id": "FMA72830",
+   "en": "right globus pallidus"
+  },
+  {
+   "id": "FMA72831",
+   "en": "left globus pallidus"
+  },
+  {
+   "id": "FMA72832",
+   "en": "right amygdala"
+  },
+  {
+   "id": "FMA72833",
+   "en": "left amygdala"
+  },
+  {
+   "id": "FMA72906",
+   "en": "right internal capsule"
+  },
+  {
+   "id": "FMA72907",
+   "en": "left internal capsule"
+  },
+  {
+   "id": "FMA72924",
+   "en": "right fornix of forebrain"
+  },
+  {
+   "id": "FMA72925",
+   "en": "left fornix of forebrain"
+  },
+  {
+   "id": "FMA72940",
+   "en": "left stria terminalis"
+  },
+  {
+   "id": "FMA72975",
+   "en": "right occipital lobe"
+  },
+  {
+   "id": "FMA72976",
+   "en": "left occipital lobe"
+  },
+  {
+   "id": "FMA72977",
+   "en": "right insula"
+  },
+  {
+   "id": "FMA72978",
+   "en": "left insula"
+  },
+  {
+   "id": "FMA73203",
+   "en": "trunk of subdivision of axillary artery"
+  },
+  {
+   "id": "FMA73204",
+   "en": "trunk of branch of common iliac artery"
+  },
+  {
+   "id": "FMA73303",
+   "en": "right lateral geniculate body"
+  },
+  {
+   "id": "FMA73304",
+   "en": "left lateral geniculate body"
+  }
+ ]
+}

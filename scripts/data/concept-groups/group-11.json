@@ -1,0 +1,535 @@
+{
+ "index": 11,
+ "from": 3300,
+ "count": 132,
+ "concepts": [
+  {
+   "id": "FMA67687",
+   "en": "hindbrain"
+  },
+  {
+   "id": "FMA67994",
+   "en": "intrapulmonary part of right pulmonary artery"
+  },
+  {
+   "id": "FMA67995",
+   "en": "intrapulmonary part of left pulmonary artery"
+  },
+  {
+   "id": "FMA68002",
+   "en": "intrapulmonary part of right superior pulmonary vein"
+  },
+  {
+   "id": "FMA68003",
+   "en": "intrapulmonary part of right inferior pulmonary vein"
+  },
+  {
+   "id": "FMA68004",
+   "en": "intrapulmonary part of left superior pulmonary vein"
+  },
+  {
+   "id": "FMA68005",
+   "en": "intrapulmonary part of left inferior pulmonary vein"
+  },
+  {
+   "id": "FMA68016",
+   "en": "intrahepatic biliary tree"
+  },
+  {
+   "id": "FMA68193",
+   "en": "medial segmental artery"
+  },
+  {
+   "id": "FMA68194",
+   "en": "lateral segmental artery"
+  },
+  {
+   "id": "FMA68196",
+   "en": "middle lobar artery"
+  },
+  {
+   "id": "FMA68198",
+   "en": "left upper lobar artery"
+  },
+  {
+   "id": "FMA68200",
+   "en": "right lower lobar artery"
+  },
+  {
+   "id": "FMA68201",
+   "en": "left lower lobar artery"
+  },
+  {
+   "id": "FMA68317",
+   "en": "superior division of upper lobe part of left bronchial tree"
+  },
+  {
+   "id": "FMA68318",
+   "en": "inferior division of upper lobe part of left bronchial tree"
+  },
+  {
+   "id": "FMA68319",
+   "en": "inferomedial part of right bronchial tree"
+  },
+  {
+   "id": "FMA68658",
+   "en": "inferomedial branch of right pulmonary artery"
+  },
+  {
+   "id": "FMA68659",
+   "en": "apicoposterior division of right upper lobar artery"
+  },
+  {
+   "id": "FMA68843",
+   "en": "antero-medial basal segmental artery"
+  },
+  {
+   "id": "FMA68845",
+   "en": "right basal segmental artery"
+  },
+  {
+   "id": "FMA68846",
+   "en": "left basal segmental artery"
+  },
+  {
+   "id": "FMA69566",
+   "en": "trunk of right lateral plantar artery"
+  },
+  {
+   "id": "FMA69567",
+   "en": "trunk of left lateral plantar artery"
+  },
+  {
+   "id": "FMA70347",
+   "en": "right thyrocervical artery"
+  },
+  {
+   "id": "FMA70348",
+   "en": "left thyrocervical artery"
+  },
+  {
+   "id": "FMA70351",
+   "en": "right costocervical artery"
+  },
+  {
+   "id": "FMA70352",
+   "en": "left costocervical artery"
+  },
+  {
+   "id": "FMA70441",
+   "en": "anterior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70444",
+   "en": "posterior segmental hepatic artery"
+  },
+  {
+   "id": "FMA70448",
+   "en": "medial segmental hepatic artery"
+  },
+  {
+   "id": "FMA70451",
+   "en": "lateral segmental hepatic artery"
+  },
+  {
+   "id": "FMA71102",
+   "en": "right upper urinary tract"
+  },
+  {
+   "id": "FMA71103",
+   "en": "left upper urinary tract"
+  },
+  {
+   "id": "FMA71132",
+   "en": "gastrointestinal tract"
+  },
+  {
+   "id": "FMA71221",
+   "en": "axial skeleton"
+  },
+  {
+   "id": "FMA71857",
+   "en": "right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71858",
+   "en": "left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71861",
+   "en": "anterior tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71862",
+   "en": "posterior tributary of right hepatic biliary tree"
+  },
+  {
+   "id": "FMA71863",
+   "en": "lateral tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71864",
+   "en": "medial tributary of left hepatic biliary tree"
+  },
+  {
+   "id": "FMA71891",
+   "en": "hepatic biliary tree"
+  },
+  {
+   "id": "FMA72062",
+   "en": "pelvic skeleton"
+  },
+  {
+   "id": "FMA72063",
+   "en": "set of cervical vertebrae"
+  },
+  {
+   "id": "FMA72064",
+   "en": "set of thoracic vertebrae"
+  },
+  {
+   "id": "FMA72065",
+   "en": "set of lumbar vertebrae"
+  },
+  {
+   "id": "FMA72952",
+   "en": "orbital part of right eye"
+  },
+  {
+   "id": "FMA72953",
+   "en": "orbital part of left eye"
+  },
+  {
+   "id": "FMA72969",
+   "en": "right frontal lobe"
+  },
+  {
+   "id": "FMA72970",
+   "en": "left frontal lobe"
+  },
+  {
+   "id": "FMA72971",
+   "en": "right temporal lobe"
+  },
+  {
+   "id": "FMA72972",
+   "en": "left temporal lobe"
+  },
+  {
+   "id": "FMA72973",
+   "en": "right parietal lobe"
+  },
+  {
+   "id": "FMA72974",
+   "en": "left parietal lobe"
+  },
+  {
+   "id": "FMA72979",
+   "en": "integumentary system"
+  },
+  {
+   "id": "FMA72980",
+   "en": "right limbic lobe"
+  },
+  {
+   "id": "FMA72981",
+   "en": "left limbic lobe"
+  },
+  {
+   "id": "FMA73055",
+   "en": "anterior part of right knee"
+  },
+  {
+   "id": "FMA73056",
+   "en": "anterior part of left knee"
+  },
+  {
+   "id": "FMA73086",
+   "en": "right foot proper"
+  },
+  {
+   "id": "FMA73087",
+   "en": "left foot proper"
+  },
+  {
+   "id": "FMA73103",
+   "en": "posterior thoracic wall"
+  },
+  {
+   "id": "FMA73703",
+   "en": "wall of right side of heart"
+  },
+  {
+   "id": "FMA73704",
+   "en": "wall of left side of heart"
+  },
+  {
+   "id": "FMA74657",
+   "en": "integument"
+  },
+  {
+   "id": "FMA75007",
+   "en": "cavity of neuraxis"
+  },
+  {
+   "id": "FMA78435",
+   "en": "musculature of anterior abdominal wall"
+  },
+  {
+   "id": "FMA79063",
+   "en": "deep fascial system"
+  },
+  {
+   "id": "FMA79065",
+   "en": "patellar part of right knee"
+  },
+  {
+   "id": "FMA79066",
+   "en": "patellar part of left knee"
+  },
+  {
+   "id": "FMA79181",
+   "en": "skeleton of right hand proper"
+  },
+  {
+   "id": "FMA79182",
+   "en": "skeleton of left hand proper"
+  },
+  {
+   "id": "FMA79269",
+   "en": "content of thorax"
+  },
+  {
+   "id": "FMA79273",
+   "en": "content of mediastinum"
+  },
+  {
+   "id": "FMA79274",
+   "en": "content of superior mediastinum"
+  },
+  {
+   "id": "FMA79275",
+   "en": "content of inferior mediastinum"
+  },
+  {
+   "id": "FMA79276",
+   "en": "content of anterior mediastinum"
+  },
+  {
+   "id": "FMA79277",
+   "en": "content of posterior mediastinum"
+  },
+  {
+   "id": "FMA79278",
+   "en": "content of middle mediastinum"
+  },
+  {
+   "id": "FMA79876",
+   "en": "brainstem"
+  },
+  {
+   "id": "FMA82672",
+   "en": "superior systemic venous tree"
+  },
+  {
+   "id": "FMA82673",
+   "en": "inferior systemic venous tree"
+  },
+  {
+   "id": "FMA83447",
+   "en": "myocardium of right ventricle proper"
+  },
+  {
+   "id": "FMA83448",
+   "en": "myocardium of left ventricle proper"
+  },
+  {
+   "id": "FMA83902",
+   "en": "midbrain tectum"
+  },
+  {
+   "id": "FMA84842",
+   "en": "free wall of right ventricle"
+  },
+  {
+   "id": "FMA84850",
+   "en": "free wall of left ventricle"
+  },
+  {
+   "id": "FMA84856",
+   "en": "subendocardial layer of myocardium of right ventricle"
+  },
+  {
+   "id": "FMA84857",
+   "en": "subendocardial layer of myocardium of left ventricle"
+  },
+  {
+   "id": "FMA84931",
+   "en": "myocardium of free wall of right ventricle"
+  },
+  {
+   "id": "FMA84932",
+   "en": "myocardium of free wall of left ventricle"
+  },
+  {
+   "id": "FMA85008",
+   "en": "compartment of thorax"
+  },
+  {
+   "id": "FMA85031",
+   "en": "compartment of abdomen"
+  },
+  {
+   "id": "FMA85055",
+   "en": "right pulmopleural compartment"
+  },
+  {
+   "id": "FMA85056",
+   "en": "left pulmopleural compartment"
+  },
+  {
+   "id": "FMA86056",
+   "en": "myocardial zone 4"
+  },
+  {
+   "id": "FMA86063",
+   "en": "myocardial zone 11"
+  },
+  {
+   "id": "FMA86064",
+   "en": "myocardial zone 12"
+  },
+  {
+   "id": "FMA86917",
+   "en": "musculature of abdomen"
+  },
+  {
+   "id": "FMA87178",
+   "en": "myocardium of lateral wall of left ventricle"
+  },
+  {
+   "id": "FMA87179",
+   "en": "myocardium of inferior wall of left ventricle"
+  },
+  {
+   "id": "FMA87542",
+   "en": "anterior thoracic wall"
+  },
+  {
+   "id": "FMA87543",
+   "en": "anterior chest wall"
+  },
+  {
+   "id": "FMA87552",
+   "en": "posterior chest"
+  },
+  {
+   "id": "FMA87598",
+   "en": "skeletal system of trunk"
+  },
+  {
+   "id": "FMA228642",
+   "en": "vasculature of body"
+  },
+  {
+   "id": "FMA231424",
+   "en": "body proper"
+  },
+  {
+   "id": "FMA242180",
+   "en": "cortex of right cerebral hemisphere"
+  },
+  {
+   "id": "FMA242182",
+   "en": "cortex of left cerebral hemisphere"
+  },
+  {
+   "id": "FMA242184",
+   "en": "subcortex of right cerebral hemisphere"
+  },
+  {
+   "id": "FMA242186",
+   "en": "subcortex of left cerebral hemisphere"
+  },
+  {
+   "id": "FMA242207",
+   "en": "cortex of right frontal lobe"
+  },
+  {
+   "id": "FMA242209",
+   "en": "cortex of left frontal lobe"
+  },
+  {
+   "id": "FMA242609",
+   "en": "right archicortex"
+  },
+  {
+   "id": "FMA242611",
+   "en": "left archicortex"
+  },
+  {
+   "id": "FMA242625",
+   "en": "right prefrontal cortex"
+  },
+  {
+   "id": "FMA242627",
+   "en": "left prefrontal cortex"
+  },
+  {
+   "id": "FMA242675",
+   "en": "ventricular system of neuraxis"
+  },
+  {
+   "id": "FMA242787",
+   "en": "ventricular system of brain"
+  },
+  {
+   "id": "FMA259054",
+   "en": "wall of abdomen"
+  },
+  {
+   "id": "FMA259209",
+   "en": "thoracic segment of trunk"
+  },
+  {
+   "id": "FMA259211",
+   "en": "abdominal segment of trunk"
+  },
+  {
+   "id": "FMA259248",
+   "en": "content of abdomen"
+  },
+  {
+   "id": "FMA260124",
+   "en": "right orbital content"
+  },
+  {
+   "id": "FMA260127",
+   "en": "left orbital content"
+  },
+  {
+   "id": "FMA260456",
+   "en": "body cavity content"
+  },
+  {
+   "id": "FMA261139",
+   "en": "right hippocampal formation"
+  },
+  {
+   "id": "FMA261141",
+   "en": "left hippocampal formation"
+  },
+  {
+   "id": "FMA265130",
+   "en": "respiratory tract"
+  },
+  {
+   "id": "FMA265228",
+   "en": "pancreaticobiliary system"
+  },
+  {
+   "id": "FMA270201",
+   "en": "basicranial part of head proper"
+  }
+ ]
+}

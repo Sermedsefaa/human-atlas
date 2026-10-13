@@ -1,0 +1,1207 @@
+{
+ "index": 7,
+ "from": 2100,
+ "count": 300,
+ "concepts": [
+  {
+   "id": "FMA55118",
+   "en": "left cuneiform cartilage"
+  },
+  {
+   "id": "FMA55130",
+   "en": "epiglottis"
+  },
+  {
+   "id": "FMA55131",
+   "en": "ligament of larynx"
+  },
+  {
+   "id": "FMA55132",
+   "en": "thyrohyoid membrane"
+  },
+  {
+   "id": "FMA55133",
+   "en": "right thyrohyoid membrane"
+  },
+  {
+   "id": "FMA55134",
+   "en": "left thyrohyoid membrane"
+  },
+  {
+   "id": "FMA55135",
+   "en": "thyrohyoid ligament"
+  },
+  {
+   "id": "FMA55138",
+   "en": "median thyrohyoid ligament"
+  },
+  {
+   "id": "FMA55139",
+   "en": "lateral thyrohyoid ligament"
+  },
+  {
+   "id": "FMA55140",
+   "en": "right lateral thyrohyoid ligament"
+  },
+  {
+   "id": "FMA55141",
+   "en": "left lateral thyrohyoid ligament"
+  },
+  {
+   "id": "FMA55226",
+   "en": "intrinsic muscle of larynx"
+  },
+  {
+   "id": "FMA55227",
+   "en": "hyo-epiglottic ligament"
+  },
+  {
+   "id": "FMA55230",
+   "en": "thyro-epiglottic ligament"
+  },
+  {
+   "id": "FMA55233",
+   "en": "cricothyroid ligament"
+  },
+  {
+   "id": "FMA55237",
+   "en": "median cricothyroid ligament"
+  },
+  {
+   "id": "FMA55244",
+   "en": "vocal ligament"
+  },
+  {
+   "id": "FMA55245",
+   "en": "right vocal ligament"
+  },
+  {
+   "id": "FMA55246",
+   "en": "left vocal ligament"
+  },
+  {
+   "id": "FMA55250",
+   "en": "conus elasticus"
+  },
+  {
+   "id": "FMA55251",
+   "en": "right conus elasticus"
+  },
+  {
+   "id": "FMA55252",
+   "en": "left conus elasticus"
+  },
+  {
+   "id": "FMA55268",
+   "en": "organ zone"
+  },
+  {
+   "id": "FMA55618",
+   "en": "pterygomandibular raphe"
+  },
+  {
+   "id": "FMA55619",
+   "en": "right pterygomandibular raphe"
+  },
+  {
+   "id": "FMA55620",
+   "en": "left pterygomandibular raphe"
+  },
+  {
+   "id": "FMA55636",
+   "en": "canine tooth"
+  },
+  {
+   "id": "FMA55637",
+   "en": "premolar tooth"
+  },
+  {
+   "id": "FMA55638",
+   "en": "molar tooth"
+  },
+  {
+   "id": "FMA55652",
+   "en": "anatomical set"
+  },
+  {
+   "id": "FMA55661",
+   "en": "parenchymatous organ"
+  },
+  {
+   "id": "FMA55662",
+   "en": "lobular organ"
+  },
+  {
+   "id": "FMA55663",
+   "en": "corticomedullary organ"
+  },
+  {
+   "id": "FMA55665",
+   "en": "nonparenchymatous organ"
+  },
+  {
+   "id": "FMA55670",
+   "en": "solid organ"
+  },
+  {
+   "id": "FMA55671",
+   "en": "cavitated organ"
+  },
+  {
+   "id": "FMA55672",
+   "en": "organ with organ cavity"
+  },
+  {
+   "id": "FMA55673",
+   "en": "organ with cavitated organ parts"
+  },
+  {
+   "id": "FMA55676",
+   "en": "segment of brain"
+  },
+  {
+   "id": "FMA55677",
+   "en": "hollow tree organ"
+  },
+  {
+   "id": "FMA55680",
+   "en": "right upper lateral secondary incisor tooth"
+  },
+  {
+   "id": "FMA55681",
+   "en": "right upper central secondary incisor tooth"
+  },
+  {
+   "id": "FMA55682",
+   "en": "left upper central secondary incisor tooth"
+  },
+  {
+   "id": "FMA55683",
+   "en": "left upper lateral secondary incisor tooth"
+  },
+  {
+   "id": "FMA55686",
+   "en": "right lower secondary canine tooth"
+  },
+  {
+   "id": "FMA55687",
+   "en": "left lower secondary canine tooth"
+  },
+  {
+   "id": "FMA55688",
+   "en": "right upper second secondary premolar tooth"
+  },
+  {
+   "id": "FMA55689",
+   "en": "right upper first secondary premolar tooth"
+  },
+  {
+   "id": "FMA55690",
+   "en": "left upper first secondary premolar tooth"
+  },
+  {
+   "id": "FMA55691",
+   "en": "left upper second secondary premolar tooth"
+  },
+  {
+   "id": "FMA55692",
+   "en": "left lower second secondary premolar tooth"
+  },
+  {
+   "id": "FMA55693",
+   "en": "left lower first secondary premolar tooth"
+  },
+  {
+   "id": "FMA55694",
+   "en": "right lower first secondary premolar tooth"
+  },
+  {
+   "id": "FMA55695",
+   "en": "right lower second secondary premolar tooth"
+  },
+  {
+   "id": "FMA55697",
+   "en": "right upper second secondary molar tooth"
+  },
+  {
+   "id": "FMA55698",
+   "en": "right upper first secondary molar tooth"
+  },
+  {
+   "id": "FMA55699",
+   "en": "left upper first secondary molar tooth"
+  },
+  {
+   "id": "FMA55700",
+   "en": "left upper second secondary molar tooth"
+  },
+  {
+   "id": "FMA55703",
+   "en": "left lower second secondary molar tooth"
+  },
+  {
+   "id": "FMA55704",
+   "en": "left lower first secondary molar tooth"
+  },
+  {
+   "id": "FMA55705",
+   "en": "right lower first secondary molar tooth"
+  },
+  {
+   "id": "FMA55706",
+   "en": "right lower second secondary molar tooth"
+  },
+  {
+   "id": "FMA55712",
+   "en": "upper secondary incisor tooth"
+  },
+  {
+   "id": "FMA55713",
+   "en": "lower secondary incisor tooth"
+  },
+  {
+   "id": "FMA55714",
+   "en": "upper secondary canine tooth"
+  },
+  {
+   "id": "FMA55715",
+   "en": "lower secondary canine tooth"
+  },
+  {
+   "id": "FMA55716",
+   "en": "upper secondary premolar tooth"
+  },
+  {
+   "id": "FMA55717",
+   "en": "lower secondary premolar tooth"
+  },
+  {
+   "id": "FMA55720",
+   "en": "upper secondary molar tooth"
+  },
+  {
+   "id": "FMA55721",
+   "en": "lower secondary molar tooth"
+  },
+  {
+   "id": "FMA55722",
+   "en": "upper central secondary incisor tooth"
+  },
+  {
+   "id": "FMA55723",
+   "en": "lower central secondary incisor tooth"
+  },
+  {
+   "id": "FMA55724",
+   "en": "upper lateral secondary incisor tooth"
+  },
+  {
+   "id": "FMA55725",
+   "en": "lower lateral secondary incisor tooth"
+  },
+  {
+   "id": "FMA55798",
+   "en": "right upper secondary canine tooth"
+  },
+  {
+   "id": "FMA55799",
+   "en": "left upper secondary canine tooth"
+  },
+  {
+   "id": "FMA55801",
+   "en": "upper first secondary premolar tooth"
+  },
+  {
+   "id": "FMA55802",
+   "en": "upper second secondary premolar tooth"
+  },
+  {
+   "id": "FMA55803",
+   "en": "lower first secondary premolar tooth"
+  },
+  {
+   "id": "FMA55804",
+   "en": "lower second secondary premolar tooth"
+  },
+  {
+   "id": "FMA55811",
+   "en": "upper first secondary molar tooth"
+  },
+  {
+   "id": "FMA55812",
+   "en": "upper second secondary molar tooth"
+  },
+  {
+   "id": "FMA55814",
+   "en": "lower first secondary molar tooth"
+  },
+  {
+   "id": "FMA55815",
+   "en": "lower second secondary molar tooth"
+  },
+  {
+   "id": "FMA57140",
+   "en": "right lower lateral secondary incisor tooth"
+  },
+  {
+   "id": "FMA57141",
+   "en": "left lower lateral secondary incisor tooth"
+  },
+  {
+   "id": "FMA57142",
+   "en": "right lower central secondary incisor tooth"
+  },
+  {
+   "id": "FMA57143",
+   "en": "left lower central secondary incisor tooth"
+  },
+  {
+   "id": "FMA57965",
+   "en": "zone of investing fascia"
+  },
+  {
+   "id": "FMA58071",
+   "en": "chamber of eyeball"
+  },
+  {
+   "id": "FMA58078",
+   "en": "anterior chamber of eyeball"
+  },
+  {
+   "id": "FMA58081",
+   "en": "anterior chamber of right eyeball"
+  },
+  {
+   "id": "FMA58082",
+   "en": "anterior chamber of left eyeball"
+  },
+  {
+   "id": "FMA58101",
+   "en": "layer of wall of eyeball"
+  },
+  {
+   "id": "FMA58102",
+   "en": "fibrous layer of eyeball"
+  },
+  {
+   "id": "FMA58235",
+   "en": "iris"
+  },
+  {
+   "id": "FMA58236",
+   "en": "right iris"
+  },
+  {
+   "id": "FMA58237",
+   "en": "left iris"
+  },
+  {
+   "id": "FMA58238",
+   "en": "cornea"
+  },
+  {
+   "id": "FMA58239",
+   "en": "right cornea"
+  },
+  {
+   "id": "FMA58240",
+   "en": "left cornea"
+  },
+  {
+   "id": "FMA58241",
+   "en": "lens"
+  },
+  {
+   "id": "FMA58242",
+   "en": "right lens"
+  },
+  {
+   "id": "FMA58243",
+   "en": "left lens"
+  },
+  {
+   "id": "FMA58245",
+   "en": "lacrimal canaliculus"
+  },
+  {
+   "id": "FMA58269",
+   "en": "sclera"
+  },
+  {
+   "id": "FMA58271",
+   "en": "right sclera"
+  },
+  {
+   "id": "FMA58272",
+   "en": "left sclera"
+  },
+  {
+   "id": "FMA58274",
+   "en": "muscle of trunk"
+  },
+  {
+   "id": "FMA58298",
+   "en": "choroid"
+  },
+  {
+   "id": "FMA58299",
+   "en": "right choroid"
+  },
+  {
+   "id": "FMA58300",
+   "en": "left choroid"
+  },
+  {
+   "id": "FMA58420",
+   "en": "zone of investing fascia of free lower limb"
+  },
+  {
+   "id": "FMA58421",
+   "en": "zone of investing fascia of lower limb"
+  },
+  {
+   "id": "FMA58431",
+   "en": "corona ciliaris"
+  },
+  {
+   "id": "FMA58479",
+   "en": "region of ciliary body"
+  },
+  {
+   "id": "FMA58483",
+   "en": "right corona ciliaris"
+  },
+  {
+   "id": "FMA58484",
+   "en": "left corona ciliaris"
+  },
+  {
+   "id": "FMA58599",
+   "en": "region of retina"
+  },
+  {
+   "id": "FMA58604",
+   "en": "optic part of retina"
+  },
+  {
+   "id": "FMA58607",
+   "en": "optic part of right retina"
+  },
+  {
+   "id": "FMA58608",
+   "en": "optic part of left retina"
+  },
+  {
+   "id": "FMA58741",
+   "en": "zone of investing fascia of thigh"
+  },
+  {
+   "id": "FMA58775",
+   "en": "zone of fascia lata"
+  },
+  {
+   "id": "FMA58776",
+   "en": "right iliotibial tract"
+  },
+  {
+   "id": "FMA58777",
+   "en": "left iliotibial tract"
+  },
+  {
+   "id": "FMA58817",
+   "en": "subdivision of head proper"
+  },
+  {
+   "id": "FMA58827",
+   "en": "vitreous body"
+  },
+  {
+   "id": "FMA58828",
+   "en": "right vitreous body"
+  },
+  {
+   "id": "FMA58829",
+   "en": "left vitreous body"
+  },
+  {
+   "id": "FMA58838",
+   "en": "suspensory ligament of lens"
+  },
+  {
+   "id": "FMA58839",
+   "en": "suspensory ligament of right lens"
+  },
+  {
+   "id": "FMA58840",
+   "en": "suspensory ligament of left lens"
+  },
+  {
+   "id": "FMA59086",
+   "en": "tarsal plate of eyelid"
+  },
+  {
+   "id": "FMA59087",
+   "en": "tarsal plate of upper eyelid"
+  },
+  {
+   "id": "FMA59088",
+   "en": "tarsal plate of lower eyelid"
+  },
+  {
+   "id": "FMA59089",
+   "en": "tarsal plate of right lower eyelid"
+  },
+  {
+   "id": "FMA59090",
+   "en": "tarsal plate of left lower eyelid"
+  },
+  {
+   "id": "FMA59091",
+   "en": "tarsal plate of right upper eyelid"
+  },
+  {
+   "id": "FMA59092",
+   "en": "tarsal plate of left upper eyelid"
+  },
+  {
+   "id": "FMA59101",
+   "en": "lacrimal gland"
+  },
+  {
+   "id": "FMA59102",
+   "en": "right lacrimal gland"
+  },
+  {
+   "id": "FMA59103",
+   "en": "left lacrimal gland"
+  },
+  {
+   "id": "FMA59402",
+   "en": "lacrimal lake"
+  },
+  {
+   "id": "FMA59502",
+   "en": "nasal cartilage"
+  },
+  {
+   "id": "FMA59503",
+   "en": "septal nasal cartilage"
+  },
+  {
+   "id": "FMA59504",
+   "en": "major alar cartilage"
+  },
+  {
+   "id": "FMA59505",
+   "en": "right major alar cartilage"
+  },
+  {
+   "id": "FMA59506",
+   "en": "left major alar cartilage"
+  },
+  {
+   "id": "FMA59511",
+   "en": "lateral nasal cartilage"
+  },
+  {
+   "id": "FMA59512",
+   "en": "right lateral nasal cartilage"
+  },
+  {
+   "id": "FMA59513",
+   "en": "left lateral nasal cartilage"
+  },
+  {
+   "id": "FMA59541",
+   "en": "right lacrimal lake"
+  },
+  {
+   "id": "FMA59542",
+   "en": "left lacrimal lake"
+  },
+  {
+   "id": "FMA59545",
+   "en": "right lacrimal sac"
+  },
+  {
+   "id": "FMA59546",
+   "en": "left lacrimal sac"
+  },
+  {
+   "id": "FMA59555",
+   "en": "right nasolacrimal duct"
+  },
+  {
+   "id": "FMA59556",
+   "en": "left nasolacrimal duct"
+  },
+  {
+   "id": "FMA59582",
+   "en": "right lacrimal canaliculus"
+  },
+  {
+   "id": "FMA59583",
+   "en": "left lacrimal canaliculus"
+  },
+  {
+   "id": "FMA59762",
+   "en": "gingiva"
+  },
+  {
+   "id": "FMA59763",
+   "en": "gingiva of upper jaw"
+  },
+  {
+   "id": "FMA59764",
+   "en": "gingiva of lower jaw"
+  },
+  {
+   "id": "FMA59788",
+   "en": "major salivary gland"
+  },
+  {
+   "id": "FMA59791",
+   "en": "sublingual gland"
+  },
+  {
+   "id": "FMA59802",
+   "en": "right submandibular gland"
+  },
+  {
+   "id": "FMA59803",
+   "en": "left submandibular gland"
+  },
+  {
+   "id": "FMA59804",
+   "en": "right sublingual gland"
+  },
+  {
+   "id": "FMA59805",
+   "en": "left sublingual gland"
+  },
+  {
+   "id": "FMA59816",
+   "en": "lip"
+  },
+  {
+   "id": "FMA61284",
+   "en": "neural tree organ"
+  },
+  {
+   "id": "FMA61708",
+   "en": "subdivision of auriculotemporal part of head"
+  },
+  {
+   "id": "FMA61775",
+   "en": "physical anatomical entity"
+  },
+  {
+   "id": "FMA61815",
+   "en": "cardinal segment of brain"
+  },
+  {
+   "id": "FMA61820",
+   "en": "segment of cerebral hemisphere"
+  },
+  {
+   "id": "FMA61823",
+   "en": "lobe of cerebral hemisphere"
+  },
+  {
+   "id": "FMA61833",
+   "en": "caudate nucleus"
+  },
+  {
+   "id": "FMA61834",
+   "en": "putamen"
+  },
+  {
+   "id": "FMA61835",
+   "en": "globus pallidus"
+  },
+  {
+   "id": "FMA61841",
+   "en": "amygdala"
+  },
+  {
+   "id": "FMA61842",
+   "en": "septum of telencephalon"
+  },
+  {
+   "id": "FMA61857",
+   "en": "superior frontal gyrus"
+  },
+  {
+   "id": "FMA61859",
+   "en": "middle frontal gyrus"
+  },
+  {
+   "id": "FMA61860",
+   "en": "inferior frontal gyrus"
+  },
+  {
+   "id": "FMA61894",
+   "en": "precentral gyrus"
+  },
+  {
+   "id": "FMA61896",
+   "en": "postcentral gyrus"
+  },
+  {
+   "id": "FMA61897",
+   "en": "supramarginal gyrus"
+  },
+  {
+   "id": "FMA61898",
+   "en": "angular gyrus"
+  },
+  {
+   "id": "FMA61899",
+   "en": "superior parietal lobule"
+  },
+  {
+   "id": "FMA61906",
+   "en": "middle temporal gyrus"
+  },
+  {
+   "id": "FMA61907",
+   "en": "inferior temporal gyrus"
+  },
+  {
+   "id": "FMA61908",
+   "en": "fusiform gyrus"
+  },
+  {
+   "id": "FMA61918",
+   "en": "parahippocampal gyrus"
+  },
+  {
+   "id": "FMA61934",
+   "en": "choroid plexus of cerebral hemisphere"
+  },
+  {
+   "id": "FMA61950",
+   "en": "internal capsule"
+  },
+  {
+   "id": "FMA61961",
+   "en": "anterior commissure"
+  },
+  {
+   "id": "FMA61965",
+   "en": "fornix of forebrain"
+  },
+  {
+   "id": "FMA61970",
+   "en": "commissure of fornix of forebrain"
+  },
+  {
+   "id": "FMA61974",
+   "en": "stria terminalis"
+  },
+  {
+   "id": "FMA61975",
+   "en": "lamina terminalis"
+  },
+  {
+   "id": "FMA61993",
+   "en": "midbrain"
+  },
+  {
+   "id": "FMA61996",
+   "en": "segment of forebrain"
+  },
+  {
+   "id": "FMA61997",
+   "en": "segment of midbrain"
+  },
+  {
+   "id": "FMA61998",
+   "en": "segment of hindbrain"
+  },
+  {
+   "id": "FMA62004",
+   "en": "medulla oblongata"
+  },
+  {
+   "id": "FMA62007",
+   "en": "thalamus"
+  },
+  {
+   "id": "FMA62008",
+   "en": "hypothalamus"
+  },
+  {
+   "id": "FMA62032",
+   "en": "habenula"
+  },
+  {
+   "id": "FMA62033",
+   "en": "pineal body"
+  },
+  {
+   "id": "FMA62045",
+   "en": "optic chiasm"
+  },
+  {
+   "id": "FMA62046",
+   "en": "optic tract"
+  },
+  {
+   "id": "FMA62072",
+   "en": "posterior commissure"
+  },
+  {
+   "id": "FMA62080",
+   "en": "stria medullaris of thalamus"
+  },
+  {
+   "id": "FMA62209",
+   "en": "lateral geniculate body"
+  },
+  {
+   "id": "FMA62211",
+   "en": "medial geniculate body"
+  },
+  {
+   "id": "FMA62327",
+   "en": "tuber cinereum"
+  },
+  {
+   "id": "FMA62374",
+   "en": "segment of telencephalon"
+  },
+  {
+   "id": "FMA62382",
+   "en": "right optic tract"
+  },
+  {
+   "id": "FMA62394",
+   "en": "peduncle of midbrain"
+  },
+  {
+   "id": "FMA62398",
+   "en": "segment of midbrain tectum"
+  },
+  {
+   "id": "FMA62403",
+   "en": "superior colliculus"
+  },
+  {
+   "id": "FMA62404",
+   "en": "inferior colliculus"
+  },
+  {
+   "id": "FMA62434",
+   "en": "cingulate gyrus"
+  },
+  {
+   "id": "FMA62445",
+   "en": "commissure of diencephalon"
+  },
+  {
+   "id": "FMA62466",
+   "en": "capsule of cerebral hemisphere"
+  },
+  {
+   "id": "FMA62493",
+   "en": "hippocampus"
+  },
+  {
+   "id": "FMA62504",
+   "en": "tributary of deep palmar venous arch"
+  },
+  {
+   "id": "FMA62506",
+   "en": "dorsal venous network of right hand"
+  },
+  {
+   "id": "FMA62507",
+   "en": "dorsal venous network of left hand"
+  },
+  {
+   "id": "FMA62512",
+   "en": "trunk of systemic vein"
+  },
+  {
+   "id": "FMA62514",
+   "en": "basal ganglion of telencephalon"
+  },
+  {
+   "id": "FMA62955",
+   "en": "anatomical entity"
+  },
+  {
+   "id": "FMA63103",
+   "en": "pancreatic duct tree"
+  },
+  {
+   "id": "FMA63120",
+   "en": "parenchyma of pancreas"
+  },
+  {
+   "id": "FMA63812",
+   "en": "set of arteries"
+  },
+  {
+   "id": "FMA63814",
+   "en": "set of veins"
+  },
+  {
+   "id": "FMA63822",
+   "en": "posterior intercostal arteries"
+  },
+  {
+   "id": "FMA64796",
+   "en": "region of serous membrane"
+  },
+  {
+   "id": "FMA64822",
+   "en": "superficial muscle of neck"
+  },
+  {
+   "id": "FMA64829",
+   "en": "scalene muscle"
+  },
+  {
+   "id": "FMA64875",
+   "en": "anterior suboccipital muscle"
+  },
+  {
+   "id": "FMA64916",
+   "en": "thenar muscle"
+  },
+  {
+   "id": "FMA64917",
+   "en": "hypothenar muscle"
+  },
+  {
+   "id": "FMA64922",
+   "en": "gluteal muscle"
+  },
+  {
+   "id": "FMA64989",
+   "en": "heterogeneous cluster"
+  },
+  {
+   "id": "FMA64990",
+   "en": "organ part cluster"
+  },
+  {
+   "id": "FMA65004",
+   "en": "superficial muscle of posterior compartment of leg"
+  },
+  {
+   "id": "FMA65008",
+   "en": "deep muscle of posterior compartment of leg"
+  },
+  {
+   "id": "FMA65014",
+   "en": "right flexor hallucis longus"
+  },
+  {
+   "id": "FMA65015",
+   "en": "left flexor hallucis longus"
+  },
+  {
+   "id": "FMA65016",
+   "en": "right flexor digitorum longus"
+  },
+  {
+   "id": "FMA65017",
+   "en": "left flexor digitorum longus"
+  },
+  {
+   "id": "FMA65018",
+   "en": "right tibialis posterior"
+  },
+  {
+   "id": "FMA65019",
+   "en": "left tibialis posterior"
+  },
+  {
+   "id": "FMA65020",
+   "en": "intrinsic muscle of foot"
+  },
+  {
+   "id": "FMA65045",
+   "en": "intrinsic muscle of dorsum of foot"
+  },
+  {
+   "id": "FMA65046",
+   "en": "intrinsic muscle of plantar part of foot"
+  },
+  {
+   "id": "FMA65132",
+   "en": "nerve"
+  },
+  {
+   "id": "FMA65198",
+   "en": "superficial head of right flexor pollicis brevis"
+  },
+  {
+   "id": "FMA65199",
+   "en": "superficial head of left flexor pollicis brevis"
+  },
+  {
+   "id": "FMA65410",
+   "en": "intermediate tendon"
+  },
+  {
+   "id": "FMA65470",
+   "en": "proximal phalanx of left thumb"
+  },
+  {
+   "id": "FMA65539",
+   "en": "subdivision of parasympathetic nervous system"
+  },
+  {
+   "id": "FMA65551",
+   "en": "subdivisionof autonomic nervous system"
+  },
+  {
+   "id": "FMA66241",
+   "en": "first posterior intercostal artery"
+  },
+  {
+   "id": "FMA66242",
+   "en": "right first posterior intercostal artery"
+  },
+  {
+   "id": "FMA66243",
+   "en": "left first posterior intercostal artery"
+  },
+  {
+   "id": "FMA66267",
+   "en": "variant systemic artery"
+  },
+  {
+   "id": "FMA66320",
+   "en": "thoracodorsal artery"
+  },
+  {
+   "id": "FMA66321",
+   "en": "right thoracodorsal artery"
+  },
+  {
+   "id": "FMA66322",
+   "en": "left thoracodorsal artery"
+  },
+  {
+   "id": "FMA66326",
+   "en": "pulmonary artery"
+  },
+  {
+   "id": "FMA66327",
+   "en": "branch of right coronary artery"
+  },
+  {
+   "id": "FMA66328",
+   "en": "branch of left coronary artery"
+  },
+  {
+   "id": "FMA66332",
+   "en": "zone of artery"
+  },
+  {
+   "id": "FMA66358",
+   "en": "trunk of superior mesenteric artery"
+  },
+  {
+   "id": "FMA66362",
+   "en": "trunk of renal artery"
+  },
+  {
+   "id": "FMA66363",
+   "en": "trunk of right renal artery"
+  },
+  {
+   "id": "FMA66364",
+   "en": "trunk of left renal artery"
+  },
+  {
+   "id": "FMA66403",
+   "en": "anterior interventricular vein"
+  },
+  {
+   "id": "FMA66464",
+   "en": "systemic artery"
+  },
+  {
+   "id": "FMA66562",
+   "en": "trunk of thoraco-acromial artery"
+  },
+  {
+   "id": "FMA66563",
+   "en": "trunk of right thoraco-acromial artery"
+  },
+  {
+   "id": "FMA66564",
+   "en": "trunk of left thoraco-acromial artery"
+  },
+  {
+   "id": "FMA66643",
+   "en": "pulmonary vein"
+  },
+  {
+   "id": "FMA66644",
+   "en": "systemic vein"
+  },
+  {
+   "id": "FMA66645",
+   "en": "portal vein"
+  },
+  {
+   "id": "FMA66791",
+   "en": "proximal phalanx of left little finger"
+  },
+  {
+   "id": "FMA67112",
+   "en": "immaterial anatomical entity"
+  },
+  {
+   "id": "FMA67135",
+   "en": "anatomical structure"
+  },
+  {
+   "id": "FMA67165",
+   "en": "material anatomical entity"
+  },
+  {
+   "id": "FMA67242",
+   "en": "gray matter of neuraxis"
+  },
+  {
+   "id": "FMA67325",
+   "en": "occipital lobe"
+  },
+  {
+   "id": "FMA67329",
+   "en": "insula"
+  },
+  {
+   "id": "FMA67396",
+   "en": "articular disk of symphysis"
+  },
+  {
+   "id": "FMA67498",
+   "en": "organ"
+  },
+  {
+   "id": "FMA67504",
+   "en": "subdivision of cardinal body part"
+  },
+  {
+   "id": "FMA67536",
+   "en": "cardinal tissue part"
+  },
+  {
+   "id": "FMA67538",
+   "en": "subdivision of epithelium"
+  },
+  {
+   "id": "FMA67552",
+   "en": "anatomical cavity"
+  }
+ ]
+}

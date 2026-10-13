@@ -1,0 +1,1207 @@
+{
+ "index": 9,
+ "from": 2700,
+ "count": 300,
+ "concepts": [
+  {
+   "id": "FMA73309",
+   "en": "right medial geniculate body"
+  },
+  {
+   "id": "FMA73310",
+   "en": "left medial geniculate body"
+  },
+  {
+   "id": "FMA73413",
+   "en": "right stria medullaris of thalamus"
+  },
+  {
+   "id": "FMA73414",
+   "en": "left stria medullaris of thalamus"
+  },
+  {
+   "id": "FMA73422",
+   "en": "right superior colliculus"
+  },
+  {
+   "id": "FMA73423",
+   "en": "left superior colliculus"
+  },
+  {
+   "id": "FMA73434",
+   "en": "right inferior colliculus"
+  },
+  {
+   "id": "FMA73435",
+   "en": "left inferior colliculus"
+  },
+  {
+   "id": "FMA73461",
+   "en": "brachium of right superior colliculus"
+  },
+  {
+   "id": "FMA73462",
+   "en": "brachium of left superior colliculus"
+  },
+  {
+   "id": "FMA73463",
+   "en": "brachium of right inferior colliculus"
+  },
+  {
+   "id": "FMA73464",
+   "en": "brachium of left inferior colliculus"
+  },
+  {
+   "id": "FMA74075",
+   "en": "set of right levatores costarum longi"
+  },
+  {
+   "id": "FMA74076",
+   "en": "set of left levatores costarum longi"
+  },
+  {
+   "id": "FMA74077",
+   "en": "set of right levatores costarum breves"
+  },
+  {
+   "id": "FMA74078",
+   "en": "set of left levatores costarum breves"
+  },
+  {
+   "id": "FMA74779",
+   "en": "musculature of chest"
+  },
+  {
+   "id": "FMA74866",
+   "en": "zone of diencephalon"
+  },
+  {
+   "id": "FMA74877",
+   "en": "mammillary body"
+  },
+  {
+   "id": "FMA74912",
+   "en": "trunk of anterior interventricular branch of left coronary artery"
+  },
+  {
+   "id": "FMA75351",
+   "en": "interventricular foramen"
+  },
+  {
+   "id": "FMA75445",
+   "en": "membrane organ component"
+  },
+  {
+   "id": "FMA75865",
+   "en": "trunk of branch of internal carotid artery"
+  },
+  {
+   "id": "FMA76107",
+   "en": "trunk of branch of middle cerebral artery"
+  },
+  {
+   "id": "FMA76127",
+   "en": "trunk of inferior terminal branch of middle cerebral artery"
+  },
+  {
+   "id": "FMA76128",
+   "en": "trunk of inferior terminal branch of right middle cerebral artery"
+  },
+  {
+   "id": "FMA76129",
+   "en": "trunk of inferior terminal branch of left middle cerebral artery"
+  },
+  {
+   "id": "FMA76259",
+   "en": "branch of vertebral artery"
+  },
+  {
+   "id": "FMA76264",
+   "en": "intracranial branch of vertebral artery"
+  },
+  {
+   "id": "FMA76269",
+   "en": "branch of basilar artery"
+  },
+  {
+   "id": "FMA76301",
+   "en": "trunk of branch of subclavian artery"
+  },
+  {
+   "id": "FMA76547",
+   "en": "trunk of branch of common hepatic artery"
+  },
+  {
+   "id": "FMA76574",
+   "en": "trunk of gastroduodenal artery"
+  },
+  {
+   "id": "FMA76582",
+   "en": "trunk of hepatic artery"
+  },
+  {
+   "id": "FMA76767",
+   "en": "anterior cardiac vein"
+  },
+  {
+   "id": "FMA76903",
+   "en": "left duct of caudate lobe of liver"
+  },
+  {
+   "id": "FMA76998",
+   "en": "supreme intercostal artery"
+  },
+  {
+   "id": "FMA77140",
+   "en": "ulnar recurrent artery"
+  },
+  {
+   "id": "FMA77144",
+   "en": "recurrent interosseous artery"
+  },
+  {
+   "id": "FMA77155",
+   "en": "popliteal artery"
+  },
+  {
+   "id": "FMA77168",
+   "en": "median sacral vein"
+  },
+  {
+   "id": "FMA77177",
+   "en": "iliocostalis"
+  },
+  {
+   "id": "FMA77178",
+   "en": "longissimus"
+  },
+  {
+   "id": "FMA77179",
+   "en": "spinalis"
+  },
+  {
+   "id": "FMA77180",
+   "en": "splenius"
+  },
+  {
+   "id": "FMA77380",
+   "en": "right popliteal artery"
+  },
+  {
+   "id": "FMA77381",
+   "en": "left popliteal artery"
+  },
+  {
+   "id": "FMA77439",
+   "en": "artery of central sulcus"
+  },
+  {
+   "id": "FMA77498",
+   "en": "circumflex scapular vein"
+  },
+  {
+   "id": "FMA77499",
+   "en": "anterior circumflex humeral vein"
+  },
+  {
+   "id": "FMA77883",
+   "en": "subdivision of brachiocephalic vein"
+  },
+  {
+   "id": "FMA77884",
+   "en": "subdivision of subclavian vein"
+  },
+  {
+   "id": "FMA77949",
+   "en": "right circumflex scapular vein"
+  },
+  {
+   "id": "FMA77950",
+   "en": "left circumflex scapular vein"
+  },
+  {
+   "id": "FMA77954",
+   "en": "right anterior circumflex humeral vein"
+  },
+  {
+   "id": "FMA77955",
+   "en": "left anterior circumflex humeral vein"
+  },
+  {
+   "id": "FMA78021",
+   "en": "medial brachial vein"
+  },
+  {
+   "id": "FMA78048",
+   "en": "subdivision of superior vena caval tree"
+  },
+  {
+   "id": "FMA78049",
+   "en": "subdivision of inferior vena caval tree"
+  },
+  {
+   "id": "FMA78121",
+   "en": "superior phrenic vein"
+  },
+  {
+   "id": "FMA78204",
+   "en": "subdivision of external iliac vein"
+  },
+  {
+   "id": "FMA78207",
+   "en": "tributary of basilic vein"
+  },
+  {
+   "id": "FMA78447",
+   "en": "region of ventricular system of brain"
+  },
+  {
+   "id": "FMA78448",
+   "en": "lateral ventricle"
+  },
+  {
+   "id": "FMA78449",
+   "en": "right lateral ventricle"
+  },
+  {
+   "id": "FMA78450",
+   "en": "left lateral ventricle"
+  },
+  {
+   "id": "FMA78454",
+   "en": "third ventricle"
+  },
+  {
+   "id": "FMA78467",
+   "en": "cerebral aqueduct"
+  },
+  {
+   "id": "FMA78469",
+   "en": "fourth ventricle"
+  },
+  {
+   "id": "FMA78497",
+   "en": "central canal of spinal cord"
+  },
+  {
+   "id": "FMA78562",
+   "en": "set of organ regions"
+  },
+  {
+   "id": "FMA78590",
+   "en": "set of heterogeneous clusters"
+  },
+  {
+   "id": "FMA79615",
+   "en": "branch of postcommunicating part of anterior cerebral artery"
+  },
+  {
+   "id": "FMA79631",
+   "en": "branch of sphenoid part of middle cerebral artery"
+  },
+  {
+   "id": "FMA79658",
+   "en": "dorsal scapular artery"
+  },
+  {
+   "id": "FMA79979",
+   "en": "sternocostal part of right pectoralis major"
+  },
+  {
+   "id": "FMA79980",
+   "en": "sternocostal part of left pectoralis major"
+  },
+  {
+   "id": "FMA81150",
+   "en": "lobule of cerebral hemisphere"
+  },
+  {
+   "id": "FMA81752",
+   "en": "right cervical rotator"
+  },
+  {
+   "id": "FMA81753",
+   "en": "left cervical rotator"
+  },
+  {
+   "id": "FMA82472",
+   "en": "cardinal organ part"
+  },
+  {
+   "id": "FMA82478",
+   "en": "lobular organ component"
+  },
+  {
+   "id": "FMA82481",
+   "en": "organ chamber"
+  },
+  {
+   "id": "FMA82485",
+   "en": "organ component layer"
+  },
+  {
+   "id": "FMA82494",
+   "en": "lobular segment"
+  },
+  {
+   "id": "FMA82500",
+   "en": "membranous layer"
+  },
+  {
+   "id": "FMA82594",
+   "en": "segment of subclavian artery"
+  },
+  {
+   "id": "FMA82695",
+   "en": "trunk of right portal vein"
+  },
+  {
+   "id": "FMA82697",
+   "en": "trunk of left portal vein"
+  },
+  {
+   "id": "FMA82706",
+   "en": "caudate lobe branch of right portal vein"
+  },
+  {
+   "id": "FMA82734",
+   "en": "right long ciliary nerve"
+  },
+  {
+   "id": "FMA82735",
+   "en": "left long ciliary nerve"
+  },
+  {
+   "id": "FMA83115",
+   "en": "cell part cluster"
+  },
+  {
+   "id": "FMA83143",
+   "en": "cell part cluster of neuraxis"
+  },
+  {
+   "id": "FMA83153",
+   "en": "organ component of neuraxis"
+  },
+  {
+   "id": "FMA83465",
+   "en": "segment of white matter of neuraxis"
+  },
+  {
+   "id": "FMA83563",
+   "en": "subdivision of muscle layer"
+  },
+  {
+   "id": "FMA83686",
+   "en": "nucleus of neuraxis"
+  },
+  {
+   "id": "FMA83738",
+   "en": "subarachnoid incisure"
+  },
+  {
+   "id": "FMA83740",
+   "en": "interpeduncular fossa"
+  },
+  {
+   "id": "FMA83840",
+   "en": "nucleus of brain"
+  },
+  {
+   "id": "FMA83854",
+   "en": "stria of neuraxis"
+  },
+  {
+   "id": "FMA83856",
+   "en": "lamina of neuraxis"
+  },
+  {
+   "id": "FMA83857",
+   "en": "brachium of neuraxis"
+  },
+  {
+   "id": "FMA83860",
+   "en": "peduncle of neuraxis"
+  },
+  {
+   "id": "FMA83865",
+   "en": "fornix of neuraxis"
+  },
+  {
+   "id": "FMA83874",
+   "en": "gyrus of neuraxis"
+  },
+  {
+   "id": "FMA83904",
+   "en": "septum of neuraxis"
+  },
+  {
+   "id": "FMA83906",
+   "en": "commissure of neuraxis"
+  },
+  {
+   "id": "FMA83912",
+   "en": "gray matter of diencephalon"
+  },
+  {
+   "id": "FMA83915",
+   "en": "gray matter of hypothalamus"
+  },
+  {
+   "id": "FMA83929",
+   "en": "white matter of neuraxis"
+  },
+  {
+   "id": "FMA83930",
+   "en": "white matter of telencephalon"
+  },
+  {
+   "id": "FMA83966",
+   "en": "tentorium cerebelli"
+  },
+  {
+   "id": "FMA84054",
+   "en": "zone of neuraxis"
+  },
+  {
+   "id": "FMA84059",
+   "en": "nuclear complex of neuraxis"
+  },
+  {
+   "id": "FMA84081",
+   "en": "circumventricular organ of neuraxis"
+  },
+  {
+   "id": "FMA84201",
+   "en": "secondary incisor tooth"
+  },
+  {
+   "id": "FMA84203",
+   "en": "secondary canine tooth"
+  },
+  {
+   "id": "FMA84207",
+   "en": "secondary molar tooth"
+  },
+  {
+   "id": "FMA84881",
+   "en": "subdivision of subarachnoid space"
+  },
+  {
+   "id": "FMA84926",
+   "en": "anatomical compartment space"
+  },
+  {
+   "id": "FMA84953",
+   "en": "space of compartment of head"
+  },
+  {
+   "id": "FMA85095",
+   "en": "proper palmar digital vein of little finger"
+  },
+  {
+   "id": "FMA85096",
+   "en": "proper palmar digital vein of right index finger"
+  },
+  {
+   "id": "FMA85097",
+   "en": "proper palmar digital vein of left index finger"
+  },
+  {
+   "id": "FMA85098",
+   "en": "proper palmar digital vein of right middle finger"
+  },
+  {
+   "id": "FMA85099",
+   "en": "proper palmar digital vein of left middle finger"
+  },
+  {
+   "id": "FMA85100",
+   "en": "proper palmar digital vein of right ring finger"
+  },
+  {
+   "id": "FMA85101",
+   "en": "proper palmar digital vein of left ring finger"
+  },
+  {
+   "id": "FMA85102",
+   "en": "proper palmar digital vein of right little finger"
+  },
+  {
+   "id": "FMA85103",
+   "en": "proper palmar digital vein of left little finger"
+  },
+  {
+   "id": "FMA85107",
+   "en": "third common palmar digital artery"
+  },
+  {
+   "id": "FMA85108",
+   "en": "fourth common palmar digital artery"
+  },
+  {
+   "id": "FMA85109",
+   "en": "branch of first common palmar digital artery"
+  },
+  {
+   "id": "FMA85110",
+   "en": "branch of second common palmar digital artery"
+  },
+  {
+   "id": "FMA85111",
+   "en": "medial proper palmar digital artery of middle finger"
+  },
+  {
+   "id": "FMA85112",
+   "en": "medial proper palmar digital artery of right middle finger"
+  },
+  {
+   "id": "FMA85114",
+   "en": "lateral proper palmar digital artery of ring finger"
+  },
+  {
+   "id": "FMA85115",
+   "en": "lateral proper palmar digital artery of right ring finger"
+  },
+  {
+   "id": "FMA85116",
+   "en": "lateral proper palmar digital artery of left ring finger"
+  },
+  {
+   "id": "FMA85117",
+   "en": "branch of third common palmar digital artery"
+  },
+  {
+   "id": "FMA85118",
+   "en": "left first common palmar digital artery"
+  },
+  {
+   "id": "FMA85119",
+   "en": "right second common palmar digital artery"
+  },
+  {
+   "id": "FMA85120",
+   "en": "left second common palmar digital artery"
+  },
+  {
+   "id": "FMA85121",
+   "en": "right third common palmar digital artery"
+  },
+  {
+   "id": "FMA85122",
+   "en": "left third common palmar digital artery"
+  },
+  {
+   "id": "FMA85123",
+   "en": "right fourth common palmar digital artery"
+  },
+  {
+   "id": "FMA85124",
+   "en": "left fourth common palmar digital artery"
+  },
+  {
+   "id": "FMA85453",
+   "en": "head of muscle organ"
+  },
+  {
+   "id": "FMA86020",
+   "en": "subdivision of transverse cervical artery"
+  },
+  {
+   "id": "FMA86033",
+   "en": "opponens digiti minimi of foot"
+  },
+  {
+   "id": "FMA86034",
+   "en": "opponens digiti minimi of right foot"
+  },
+  {
+   "id": "FMA86035",
+   "en": "opponens digiti minimi of left foot"
+  },
+  {
+   "id": "FMA86103",
+   "en": "region of organ component"
+  },
+  {
+   "id": "FMA86127",
+   "en": "branch of posterior choroidal artery"
+  },
+  {
+   "id": "FMA86140",
+   "en": "organ segment"
+  },
+  {
+   "id": "FMA86187",
+   "en": "segment of arterial tree organ"
+  },
+  {
+   "id": "FMA86188",
+   "en": "segment of venous tree organ"
+  },
+  {
+   "id": "FMA86195",
+   "en": "segment of lacrimal duct"
+  },
+  {
+   "id": "FMA86212",
+   "en": "region of wall of heart"
+  },
+  {
+   "id": "FMA86254",
+   "en": "segment of systemic artery"
+  },
+  {
+   "id": "FMA86256",
+   "en": "segment of arterial trunk"
+  },
+  {
+   "id": "FMA86340",
+   "en": "superior segmental branch of right renal artery"
+  },
+  {
+   "id": "FMA86341",
+   "en": "superior segmental branch of left renal artery"
+  },
+  {
+   "id": "FMA86346",
+   "en": "inferior segmental branch of right renal artery"
+  },
+  {
+   "id": "FMA86347",
+   "en": "inferior segmental branch of left renal artery"
+  },
+  {
+   "id": "FMA86348",
+   "en": "posterior segmental branch of right renal artery"
+  },
+  {
+   "id": "FMA86349",
+   "en": "posterior segmental branch of left renal artery"
+  },
+  {
+   "id": "FMA86375",
+   "en": "ligament organ component"
+  },
+  {
+   "id": "FMA86464",
+   "en": "corpus callosum"
+  },
+  {
+   "id": "FMA86565",
+   "en": "region of papillary muscle of left ventricle"
+  },
+  {
+   "id": "FMA86566",
+   "en": "region of lateral papillary muscle of left ventricle"
+  },
+  {
+   "id": "FMA87217",
+   "en": "descending thoracic aorta"
+  },
+  {
+   "id": "FMA87218",
+   "en": "trunk of coronary artery"
+  },
+  {
+   "id": "FMA222905",
+   "en": "segment of colon"
+  },
+  {
+   "id": "FMA223151",
+   "en": "internal gray matter component"
+  },
+  {
+   "id": "FMA225818",
+   "en": "region of layer of wall of eyeball"
+  },
+  {
+   "id": "FMA228667",
+   "en": "set of organ parts"
+  },
+  {
+   "id": "FMA230984",
+   "en": "middle phalanx of little toe"
+  },
+  {
+   "id": "FMA230986",
+   "en": "middle phalanx of right little toe"
+  },
+  {
+   "id": "FMA230988",
+   "en": "middle phalanx of left little toe"
+  },
+  {
+   "id": "FMA241998",
+   "en": "cerebral white matter"
+  },
+  {
+   "id": "FMA242193",
+   "en": "region of cerebral cortex"
+  },
+  {
+   "id": "FMA242770",
+   "en": "region of wall of ventricular system of neuraxis"
+  },
+  {
+   "id": "FMA242789",
+   "en": "region of ventricular system of neuraxis"
+  },
+  {
+   "id": "FMA256174",
+   "en": "region of cerebral white matter"
+  },
+  {
+   "id": "FMA256194",
+   "en": "orbital gyrus"
+  },
+  {
+   "id": "FMA256237",
+   "en": "segment of neuraxis"
+  },
+  {
+   "id": "FMA256693",
+   "en": "nucleus of thalamus"
+  },
+  {
+   "id": "FMA258714",
+   "en": "right thalamus"
+  },
+  {
+   "id": "FMA258716",
+   "en": "left thalamus"
+  },
+  {
+   "id": "FMA258847",
+   "en": "right calcaneal tendon"
+  },
+  {
+   "id": "FMA258850",
+   "en": "right intermediate tendon"
+  },
+  {
+   "id": "FMA260791",
+   "en": "white matter of right cerebral hemisphere"
+  },
+  {
+   "id": "FMA260794",
+   "en": "white matter of left cerebral hemisphere"
+  },
+  {
+   "id": "FMA264844",
+   "en": "left calcaneal tendon"
+  },
+  {
+   "id": "FMA265178",
+   "en": "ligament of lower limb"
+  },
+  {
+   "id": "FMA265180",
+   "en": "ligament of limb"
+  },
+  {
+   "id": "FMA265400",
+   "en": "region of vascular layer of eyeball"
+  },
+  {
+   "id": "FMA266054",
+   "en": "subdivision of cranial dura mater"
+  },
+  {
+   "id": "FMA268667",
+   "en": "right recurrent interosseous artery"
+  },
+  {
+   "id": "FMA268669",
+   "en": "left recurrent interosseous artery"
+  },
+  {
+   "id": "FMA268712",
+   "en": "segment of anterior tibial artery"
+  },
+  {
+   "id": "FMA268955",
+   "en": "region of papillary muscle"
+  },
+  {
+   "id": "FMA3734",
+   "en": "aorta"
+  },
+  {
+   "id": "FMA3862",
+   "en": "anterior interventricular branch of left coronary artery"
+  },
+  {
+   "id": "FMA4717",
+   "en": "anterior cardiac venous tree"
+  },
+  {
+   "id": "FMA7088",
+   "en": "heart"
+  },
+  {
+   "id": "FMA7096",
+   "en": "right atrium"
+  },
+  {
+   "id": "FMA7097",
+   "en": "left atrium"
+  },
+  {
+   "id": "FMA7098",
+   "en": "right ventricle"
+  },
+  {
+   "id": "FMA7101",
+   "en": "left ventricle"
+  },
+  {
+   "id": "FMA7152",
+   "en": "alimentary system"
+  },
+  {
+   "id": "FMA7154",
+   "en": "head"
+  },
+  {
+   "id": "FMA7155",
+   "en": "neck"
+  },
+  {
+   "id": "FMA7157",
+   "en": "nervous system"
+  },
+  {
+   "id": "FMA7158",
+   "en": "respiratory system"
+  },
+  {
+   "id": "FMA7159",
+   "en": "urinary system"
+  },
+  {
+   "id": "FMA7160",
+   "en": "genital system"
+  },
+  {
+   "id": "FMA7161",
+   "en": "cardiovascular system"
+  },
+  {
+   "id": "FMA7165",
+   "en": "right side of heart"
+  },
+  {
+   "id": "FMA7166",
+   "en": "left side of heart"
+  },
+  {
+   "id": "FMA7181",
+   "en": "trunk"
+  },
+  {
+   "id": "FMA7184",
+   "en": "lower limb"
+  },
+  {
+   "id": "FMA7185",
+   "en": "right upper limb"
+  },
+  {
+   "id": "FMA7186",
+   "en": "left upper limb"
+  },
+  {
+   "id": "FMA7187",
+   "en": "right lower limb"
+  },
+  {
+   "id": "FMA7188",
+   "en": "left lower limb"
+  },
+  {
+   "id": "FMA7197",
+   "en": "liver"
+  },
+  {
+   "id": "FMA7200",
+   "en": "small intestine"
+  },
+  {
+   "id": "FMA7201",
+   "en": "large intestine"
+  },
+  {
+   "id": "FMA7207",
+   "en": "jejunum"
+  },
+  {
+   "id": "FMA7208",
+   "en": "ileum"
+  },
+  {
+   "id": "FMA7216",
+   "en": "outflow part of right ventricle"
+  },
+  {
+   "id": "FMA7234",
+   "en": "tricuspid valve"
+  },
+  {
+   "id": "FMA7235",
+   "en": "mitral valve"
+  },
+  {
+   "id": "FMA7236",
+   "en": "aortic valve"
+  },
+  {
+   "id": "FMA7246",
+   "en": "pulmonary valve"
+  },
+  {
+   "id": "FMA7259",
+   "en": "papillary muscle of right ventricle"
+  },
+  {
+   "id": "FMA7309",
+   "en": "right lung"
+  },
+  {
+   "id": "FMA7310",
+   "en": "left lung"
+  },
+  {
+   "id": "FMA7333",
+   "en": "upper lobe of right lung"
+  },
+  {
+   "id": "FMA7337",
+   "en": "lower lobe of right lung"
+  },
+  {
+   "id": "FMA7338",
+   "en": "right apical bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7339",
+   "en": "right posterior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7359",
+   "en": "right anterior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7360",
+   "en": "medial bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7361",
+   "en": "lateral bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7362",
+   "en": "right posterior basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7363",
+   "en": "right lateral basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7364",
+   "en": "right anterior basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7365",
+   "en": "right medial basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7366",
+   "en": "right superior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7370",
+   "en": "upper lobe of left lung"
+  },
+  {
+   "id": "FMA7371",
+   "en": "lower lobe of left lung"
+  },
+  {
+   "id": "FMA7372",
+   "en": "apicoposterior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7373",
+   "en": "left anterior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7374",
+   "en": "superior lingular bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7375",
+   "en": "inferior lingular bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7376",
+   "en": "left superior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7377",
+   "en": "left medial basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7378",
+   "en": "left anterior basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7379",
+   "en": "left lateral basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7380",
+   "en": "left posterior basal bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7383",
+   "en": "middle lobe of lung"
+  },
+  {
+   "id": "FMA7385",
+   "en": "left apical bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7386",
+   "en": "left posterior bronchopulmonary segment"
+  },
+  {
+   "id": "FMA7393",
+   "en": "tracheobronchial tree"
+  },
+  {
+   "id": "FMA7395",
+   "en": "right main bronchus"
+  },
+  {
+   "id": "FMA7480",
+   "en": "rib cage"
+  },
+  {
+   "id": "FMA7481",
+   "en": "skeletal system of thorax"
+  },
+  {
+   "id": "FMA7482",
+   "en": "musculoskeletal system"
+  },
+  {
+   "id": "FMA7483",
+   "en": "axial skeletal system"
+  },
+  {
+   "id": "FMA7485",
+   "en": "sternum"
+  },
+  {
+   "id": "FMA7563",
+   "en": "body compartment"
+  },
+  {
+   "id": "FMA7647",
+   "en": "spinal cord"
+  },
+  {
+   "id": "FMA8617",
+   "en": "right apical segmental artery"
+  },
+  {
+   "id": "FMA8619",
+   "en": "right posterior segmental artery"
+  },
+  {
+   "id": "FMA8627",
+   "en": "right superior segmental artery"
+  },
+  {
+   "id": "FMA8630",
+   "en": "right anterior basal segmental artery"
+  },
+  {
+   "id": "FMA8631",
+   "en": "right lateral basal segmental artery"
+  },
+  {
+   "id": "FMA8632",
+   "en": "right posterior basal segmental artery"
+  },
+  {
+   "id": "FMA8655",
+   "en": "right upper lobar vein"
+  },
+  {
+   "id": "FMA8656",
+   "en": "middle lobar vein"
+  },
+  {
+   "id": "FMA8657",
+   "en": "left upper lobar vein"
+  },
+  {
+   "id": "FMA8658",
+   "en": "lingular vein"
+  },
+  {
+   "id": "FMA8661",
+   "en": "right apical segmental vein"
+  },
+  {
+   "id": "FMA8664",
+   "en": "lateral segmental vein"
+  },
+  {
+   "id": "FMA8665",
+   "en": "medial segmental vein"
+  },
+  {
+   "id": "FMA8666",
+   "en": "apicoposterior segmental vein"
+  },
+  {
+   "id": "FMA8671",
+   "en": "right common basal vein"
+  },
+  {
+   "id": "FMA8672",
+   "en": "right superior basal vein"
+  },
+  {
+   "id": "FMA8674",
+   "en": "right inferior basal vein"
+  },
+  {
+   "id": "FMA8676",
+   "en": "left common basal vein"
+  },
+  {
+   "id": "FMA8677",
+   "en": "left superior basal vein"
+  },
+  {
+   "id": "FMA8679",
+   "en": "left inferior basal vein"
+  },
+  {
+   "id": "FMA9140",
+   "en": "thoracic vertebral column"
+  },
+  {
+   "id": "FMA9348",
+   "en": "subaortic curtain of left ventricle"
+  },
+  {
+   "id": "FMA9352",
+   "en": "papillary muscle of left ventricle"
+  }
+ ]
+}

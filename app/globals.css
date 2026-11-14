@@ -1072,3 +1072,105 @@ html.dark .about-copy a, html.dark .source-link {
     grid-template-columns: 1fr;
   }
 }
+
+/* ==================== CAMERA FREEDOM & JOINT FOCUS CONTROLS ==================== */
+.view-controls {
+  align-items: center;
+  z-index: 15;
+}
+
+.view-controls .camera-mode-btn {
+  width: auto !important;
+  min-width: 56px;
+  height: auto !important;
+  min-height: 44px;
+  padding: 6px 8px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+}
+
+.view-controls .cam-btn-label {
+  font-size: 9px !important;
+  line-height: 1.1;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.joint-presets {
+  position: absolute;
+  bottom: 184px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  z-index: 14;
+  max-width: calc(100vw - 32px);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.joint-presets::-webkit-scrollbar {
+  display: none;
+}
+
+.joint-presets-title {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+  padding: 0 6px 0 4px;
+  white-space: nowrap;
+}
+
+.joint-presets button {
+  font-size: 11px;
+  font-weight: 500;
+  border-radius: 999px;
+  padding: 4px 10px;
+  height: 26px;
+  color: var(--foreground);
+  white-space: nowrap;
+}
+
+.joint-presets button.active {
+  background: var(--primary);
+  color: var(--primary-foreground);
+}
+
+.studio.dark .joint-presets {
+  background: #121c27eb;
+  border-color: #94a3b826;
+}
+
+.studio.dark .joint-presets button.active {
+  background: #38bdf8;
+  color: #09131c;
+}
+
+@media (max-width: 767px) {
+  .view-controls .cam-btn-label {
+    display: none;
+  }
+  .view-controls .camera-mode-btn {
+    min-width: 40px;
+    width: 40px !important;
+    height: 40px !important;
+    padding: 0 !important;
+  }
+  .joint-presets {
+    bottom: calc(168px + env(safe-area-inset-bottom));
+    padding: 4px 8px;
+  }
+  .joint-presets-title {
+    display: none;
+  }
+}

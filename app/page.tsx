@@ -11,13 +11,17 @@ import {
   Gamepad2,
   Info,
   Layers3,
+  Lock,
   Moon,
+  Move,
   Pause,
   RotateCcw,
   RotateCw,
   Search,
   Sun,
+  Unlock,
   X,
+  ZoomIn,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -40,6 +44,7 @@ import {
   SYSTEMS,
   explanation,
   type Atlas,
+  type CameraFocusPreset,
   type Concept,
   type SceneState,
   type SystemId,
@@ -62,7 +67,21 @@ const initial: SceneState = {
   view: "three-quarter",
   rotate: false,
   reset: 0,
+  freeCamera: true,
+  panMode: false,
+  focusTrigger: 0,
+  focusPreset: null,
 };
+
+const JOINT_PRESETS: { id: CameraFocusPreset; label: string; title: string }[] = [
+  { id: "head", label: "Baş & Çene", title: "Kafatası ve Temporomandibular Eklem (Cranium & TMJ)" },
+  { id: "shoulder", label: "Omuz", title: "Omuz Kavşağı ve Glenohumeral Eklem (Art. humeri)" },
+  { id: "wrist", label: "El Bileği", title: "El Bileği ve Karpal Kemikler (Carpus & Manus)" },
+  { id: "pelvis", label: "Pelvis & Kalça", title: "Pelvis, SIAS ve Kalça Eklemi (Art. coxae)" },
+  { id: "knee", label: "Diz Eklemi", title: "Diz Eklemi, Patella ve Bağlar (Art. genus)" },
+  { id: "ankle", label: "Ayak Bileği", title: "Ayak Bileği, Talus ve Tarsal Kemikler (Tarsus)" },
+  { id: "full", label: "Tam Vücut", title: "Tam Vücut Referans Görünümü" },
+];
 const STARTER_EN = [
   "heart",
   "brain",
@@ -630,6 +649,46 @@ export default function Home() {
         </section>
       )}
       <nav className="view-controls glass" aria-label="Kamera kontrolleri">
+        <Button
+          variant="ghost"
+          className={`camera-mode-btn ${state.freeCamera !== false ? "active" : ""}`}
+          aria-pressed={state.freeCamera !== false}
+          title={
+            state.freeCamera !== false
+              ? "Serbest Kamera Aktif (Merkez kilidi kapalı: Tıklanan eklemi merkez alır, imlece yakınlaşır ve 360° serbest döner)"
+              : "Merkez Kilidi Aktif (Sabit gövde merkezine kilitli)"
+          }
+          onClick={() => setState((s) => ({ ...s, freeCamera: s.freeCamera === false }))}
+        >
+          {state.freeCamera !== false ? <Unlock size={15} /> : <Lock size={15} />}
+          <span className="cam-btn-label">
+            {state.freeCamera !== false ? "Serbest Kamera" : "Merkez Kilitli"}
+          </span>
+        </Button>
+        <Button
+          variant="ghost"
+          className={`camera-mode-btn ${state.panMode ? "active" : ""}`}
+          aria-pressed={!!state.panMode}
+          title="Sol Tık Kaydırma (Pan) Modu: Kamerayı yukarı, aşağı, sağa ve sola serbestçe sürükleyin"
+          onClick={() => setState((s) => ({ ...s, panMode: !s.panMode }))}
+        >
+          <Move size={15} />
+          <span className="cam-btn-label">{state.panMode ? "Kaydırılıyor" : "Kaydır (Pan)"}</span>
+        </Button>
+        {state.selected.length > 0 && (
+          <Button
+            variant="ghost"
+            className="camera-mode-btn"
+            title="Seçili ekleme veya kemiğe yakınlaş (Çevre anatomiyi gizlemeden odakla)"
+            onClick={() =>
+              setState((s) => ({ ...s, isolate: false, focusTrigger: (s.focusTrigger ?? 0) + 1 }))
+            }
+          >
+            <ZoomIn size={15} />
+            <span className="cam-btn-label">Ekleme Odakla</span>
+          </Button>
+        )}
+        <i />
         {(["three-quarter", "front", "side", "back"] as View[]).map((v, i) => (
           <Button
             variant="ghost"
@@ -637,7 +696,15 @@ export default function Home() {
             className={state.view === v ? "active" : ""}
             aria-pressed={state.view === v}
             disabled={state.explode > 0.8 && v !== "front"}
-            onClick={() => setState((s) => ({ ...s, view: v, reset: s.reset + 1, rotate: false }))}
+            onClick={() =>
+              setState((s) => ({
+                ...s,
+                view: v,
+                reset: s.reset + 1,
+                rotate: false,
+                focusPreset: null,
+              }))
+            }
             title={VIEW_LABEL[v]}
             aria-label={VIEW_LABEL[v]}
           >
@@ -664,6 +731,28 @@ export default function Home() {
           <RotateCcw size={17} />
         </Button>
       </nav>
+      <nav className="joint-presets glass" aria-label="Hızlı eklem ve bölge odakları">
+        <span className="joint-presets-title">Eklem Odakla:</span>
+        {JOINT_PRESETS.map((jp) => (
+          <Button
+            key={jp.id}
+            variant="ghost"
+            size="xs"
+            className={state.focusPreset?.id === jp.id ? "active" : ""}
+            title={jp.title}
+            onClick={() =>
+              setState((s) => ({
+                ...s,
+                isolate: false,
+                rotate: false,
+                focusPreset: { id: jp.id, seq: (s.focusPreset?.seq ?? 0) + 1 },
+              }))
+            }
+          >
+            {jp.label}
+          </Button>
+        ))}
+      </nav>
       <div className="scene-caption">
         <span className="caption-line" />
         <span>
@@ -675,7 +764,9 @@ export default function Home() {
               ? "ANATOMİ ENVANTERİ"
               : state.explode > 0.05
                 ? "AYRIŞTIRILMIŞ YAPILAR"
-                : "POSITIO ANATOMICA · REFERANS"}
+                : state.freeCamera !== false
+                  ? "SERBEST KAMERA · ÇİFT TIKLA VEYA EKLEME ODAKLA (WASD / PAN AKTİF)"
+                  : "POSITIO ANATOMICA · REFERANS"}
         </span>
         <span className="caption-line" />
       </div>
@@ -819,6 +910,19 @@ export default function Home() {
               </div>
             )}
             <div className="detail-study-links">
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() =>
+                  setState((s) => ({
+                    ...s,
+                    isolate: false,
+                    focusTrigger: (s.focusTrigger ?? 0) + 1,
+                  }))
+                }
+              >
+                <ZoomIn size={14} /> Ekleme Yakınlaş (Çevreyi Koru)
+              </Button>
               <Button variant="outline" size="sm" onClick={() => setStudyMode("guide")}>
                 <BookOpen size={14} /> Ders Notunu Aç
               </Button>

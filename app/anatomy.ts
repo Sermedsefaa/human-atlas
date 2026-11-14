@@ -20,7 +20,8 @@ export interface Part {id:string;name:string;conceptId:string;system:SystemId;ch
 export interface Concept {id:string;name:string;elements:string[]}
 export interface Atlas {version:string;sex?:'male';source?:string;scope?:string;parts:Part[];concepts:Concept[];chunks:{url:string;bytes:number;gzip?:string;gzipBytes?:number}[];triangles:number}
 export type View = 'three-quarter'|'front'|'back'|'side';
-export interface SceneState {inspectorOpen?:boolean;explode:number;visible:SystemId[];selected:string[];isolate:boolean;view:View;rotate:boolean;reset:number;dark?:boolean}
+export type CameraFocusPreset = 'full'|'head'|'shoulder'|'wrist'|'pelvis'|'knee'|'ankle';
+export interface SceneState {inspectorOpen?:boolean;explode:number;visible:SystemId[];selected:string[];isolate:boolean;view:View;rotate:boolean;reset:number;dark?:boolean;freeCamera?:boolean;panMode?:boolean;focusTrigger?:number;focusPreset?:{id:CameraFocusPreset;seq:number}|null}
 export const DEFAULT_VISIBLE:SystemId[] = ['cardiac','sensory','skeletal','muscular','arterial','venous','nervous','respiratory','digestive','urinary','lymphatic','endocrine','reproductive','connective'];
 
 /** Kısa ve ayrıntılı yapı açıklamaları (FMA kimliği → Türkçe/Latince akademik metin - Ortez ve Protez Ders Notları Uyumlu). */

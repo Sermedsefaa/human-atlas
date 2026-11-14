@@ -94,9 +94,22 @@ export default function AnatomyScene({atlas,state,onSelect,onProgress,onError,pa
    if(found<0&&amount>.45)found=findTarget(e.clientX-rect.left,e.clientY-rect.top,e.pointerType==='touch'?24:16);if(found>=0){hover.hidden=true;select.current(atlas.parts[found].id);}
   };
   renderer.domElement.addEventListener('pointerdown',down);renderer.domElement.addEventListener('pointermove',move);renderer.domElement.addEventListener('pointerup',up);renderer.domElement.addEventListener('pointercancel',cancel);
-  const clock=new T.Clock();let lastExtent=-1;
+  const clock=new T.Clock();let lastExtent=-1,lastDark:boolean|undefined;
   const animate=()=>{
    if(disposed)return;frame=requestAnimationFrame(animate);const dt=Math.min(clock.getDelta(),.05),s=latest.current;
+   if(s.dark!==lastDark){
+    lastDark=s.dark;
+    renderer.setClearColor(s.dark?'#0b1118':'#f2f3f3');
+    (ground.material as T.MeshStandardMaterial).color.set(s.dark?0x111a24:0xd5d9dc);
+    (platform.material as T.MeshStandardMaterial).color.set(s.dark?0x182534:0xeeeeec);
+    (ring.material as T.MeshBasicMaterial).color.set(s.dark?0x38bdf8:0x8c969f);
+    (ring.material as T.MeshBasicMaterial).opacity=s.dark?.35:.4;
+    (innerRing.material as T.MeshBasicMaterial).color.set(s.dark?0x38bdf8:0xa4aeb8);
+    (innerRing.material as T.MeshBasicMaterial).opacity=s.dark?.18:.16;
+    markerMaterial.color.set(s.dark?0x94a3b8:0x64748b);
+    renderer.toneMappingExposure=s.dark?1.18:1.12;
+    dirty=true;
+   }
    const changed=lastState?.visible!==s.visible||lastState?.selected!==s.selected||lastState?.isolate!==s.isolate;
    const moving=Math.abs(amount-s.explode)>.0001;
    if(moving){amount=T.MathUtils.damp(amount,s.explode,8,dt);dirty=true;}
